@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+    {% include head.html %}
+
+    <body ng-app="app">
+
+        {% if page.name == "index.md" %}
+            <style type="text/css">
+                @media only screen and (min-device-width: 1999px) {
+                    body {
+                        background: #ffffff;
+                        background-image: url("{{ site.baseurl }}/assets/img/skeikampen_pano.jpg");
+                        background-size: 62%;
+                        background-repeat: no-repeat;
+                        background-position: center top;
+                    }
+                }
+
+                @media only screen and (max-width: 2000px) {
+                    body {
+                        background: #ffffff;
+                        background-image: url("{{ site.baseurl }}/assets/img/skeikampen_pano.jpg");
+                        background-size: 100%;
+                        background-repeat: no-repeat;
+                        background-position: center top;
+                    }
+                }
+            </style>
+        {% endif %}
+
+        <div ng-controller="controller">
+            {% include navigation.html %}
+
+            <div class="container">
+                {% if page.include %}
+                    {% include {{ page.include }}.html %}
+                {% endif %}
+            </div>
+
+            {% include js.html %}
+        </div>
+    </body>
+</html>
