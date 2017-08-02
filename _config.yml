@@ -63,3 +63,5 @@ include: []
 collections:
   tutorials:
     output: false
+
+theme: jekyll-theme-cayman
