@@ -11,5 +11,5 @@ main:
     text: 'Registration'
   - url: '/contact/'
     text: 'Contact'
-  - url: 'https://github.com/neicnordic/ahm18.neic.nordforsk.org'
+  - url: 'https://neicnordic.github.io/ahm18.neic.nordforsk.org/'
     text: 'Sources'
