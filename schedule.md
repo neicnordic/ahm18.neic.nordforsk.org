@@ -9,7 +9,7 @@ schedule:
           title: Check-in and registration
         - time: 18:30 - 19:30
           type: plenary
-          title: Opening session with introduction by Gudmund Høst
+          title: Opening session with an introduction by Gudmund Høst
           chair: 
         - time: 19:30 - 21:00
           type: recreation
@@ -21,6 +21,7 @@ schedule:
       sections:
         - time: 09:00 - 10:15
           type: plenary
+          title: Keynote speaker
           chair: 
         - time: 10:15 - 15:00
           type: recreation
@@ -34,14 +35,14 @@ schedule:
           title: Cross-team session: Part 1
         - time: 16:30 - 17:00
           type: recreation
-          title: Coffe break
+          title: Coffee break
           chair:
-        - time: 17:00 - 18:00
-          type: recreation
-          title: Break
-        - time: 18:00 - 19:00
+        - time: 17:00 - 18:30
           type: plenary
           title: Cross-team session: Part 2
+        - time: 18:30 - 19:00
+          type: plenary
+          title: Cross-team session: Part 3 (together)
           chair:
         - time: 19:00 - 20:00
           type: recreation
@@ -58,7 +59,7 @@ schedule:
           type: recreation
           title: Break and lunch
         - time: 15:00 - 16:30
-          type: workshop
+          type: workshops
           title: Workshops take 2
           chair: 
         - time: 16:30 - 17:00
