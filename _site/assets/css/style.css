@@ -38,22 +38,29 @@ a.anchor {
 }
 
 
-.recreation {
-    background-color: #bbf0d6;
+.various {
+    background-color: #D0D0D0;
 }
 
+.recreation {
+    background-color: #5cae8a;
+}
+
+
 .plenary {
-    background-color: #fff6d2;
+    background-color: #86bbd8;
 }
 
 .workshop {
-    background-color: #ffcad8;
+    background-color: #f6b540;
 }
 
 .inactive {
     background-color: #ffffff;
 }
-
+###419d78 purple
+###e36414
+##0f4c5c
 
 @-webkit-keyframes fadeIt {
   0%   { background-color: #ff0000; }

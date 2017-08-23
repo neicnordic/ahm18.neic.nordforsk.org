@@ -5,7 +5,7 @@ schedule:
     - day: Monday, January 29, 2018
       sections:
         - time: 17:00 - 18:30
-          type: recreation
+          type: various
           title: Check-in and registration
         - time: 18:30 - 19:30
           type: plenary
@@ -42,11 +42,11 @@ schedule:
           title: Cross-team session - Part 2
         - time: 18:30 - 19:00
           type: plenary
-          title: Cross-team session - Part 3 (together)
+          title: Cross-team session - Part 3 discussion
           chair:
         - time: 19:00 - 20:00
           type: recreation
-          title:
+          title: Free time
         - time: 20:00 - 21:30
           type: recreation
           title: Dinner
@@ -59,7 +59,7 @@ schedule:
           type: recreation
           title: Break and lunch
         - time: 15:00 - 16:30
-          type: workshops
+          type: workshop
           title: Workshops take 2
           chair: 
         - time: 16:30 - 17:00
@@ -81,6 +81,6 @@ schedule:
           type: workshop
           title: Team sessions
         - time: 12:00 - 13:00
-          type: recreation
+          type: various
           title: Practical information and lunch
 ---
