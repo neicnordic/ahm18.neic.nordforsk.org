@@ -36,7 +36,7 @@ schedule:
           type: recreation
           title: Coffe break
           chair:
-        - time: 17:000 - 18:00
+        - time: 17:00 - 18:00
           type: recreation
           title: Break
         - time: 18:00 - 19:00
