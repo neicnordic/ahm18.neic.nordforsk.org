@@ -9,7 +9,7 @@ schedule:
           title: Check-in and registration
         - time: 18:30 - 19:30
           type: plenary
-          title: TBD
+          title: Opening session with introduction by Gudmund Høst
           chair: 
         - time: 19:30 - 21:00
           type: recreation
@@ -19,33 +19,29 @@ schedule:
           title: After-dinner get-together
     - day: Tuesday, January 30, 2018
       sections:
-        - time: 08:50 - 09:00
-          type: plenary
-          title: 
         - time: 09:00 - 10:15
           type: plenary
-          title: 
           chair: 
         - time: 10:15 - 15:00
           type: recreation
           title: Break and lunch
-        - time: 15:00 - 15:50
+        - time: 15:00 - 15:30
           type: plenary
-          title:
+          title: Cross-team session: Intro
           chair:
-        - time: 15:50 - 16:20
+        - time: 15:30 - 16:30
+          type: plenary
+          title: Cross-team session: Part 1
+        - time: 16:30 - 17:00
           type: recreation
-          title: Coffee break
-        - time: 16:20 - 17:50
-          type: plenary
-          title:
+          title: Coffe break
           chair:
-        - time: 17:50 - 18:00
+        - time: 17:000 - 18:00
           type: recreation
           title: Break
         - time: 18:00 - 19:00
           type: plenary
-          title:
+          title: Cross-team session: Part 2
           chair:
         - time: 19:00 - 20:00
           type: recreation
@@ -57,20 +53,20 @@ schedule:
       sections:
         - time: 09:00 - 10:30
           type: workshop
-          title: 
+          title: Workshops take 1
         - time: 10:30 - 15:00
           type: recreation
           title: Break and lunch
         - time: 15:00 - 16:30
-          type: plenary
-          title: 
+          type: workshop
+          title: Workshops take 2
           chair: 
         - time: 16:30 - 17:00
           type: recreation
           title: Coffee break
         - time: 17:00 - 19:00
           type: plenary
-          title: 
+          title: Teamwork challenge
           chair: 
         - time: 19:00 - 20:00
           type: recreation
@@ -82,7 +78,7 @@ schedule:
       sections:
         - time: 09:00 - 12:00
           type: workshop
-          title: 
+          title: Team sessions
         - time: 12:00 - 13:00
           type: recreation
           title: Practical information and lunch
