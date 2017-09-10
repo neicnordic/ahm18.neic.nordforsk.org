@@ -27,21 +27,21 @@ schedule:
           type: recreation
           title: Break and lunch
         - time: 15:00 - 15:30
-          type: plenary
+          type: crossteam
           title: Cross-team session - Intro
           chair:
         - time: 15:30 - 16:30
-          type: plenary
+          type: crossteam
           title: Cross-team session - Part 1
         - time: 16:30 - 17:00
           type: recreation
           title: Coffee break
           chair:
         - time: 17:00 - 18:30
-          type: plenary
+          type: crossteam
           title: Cross-team session - Part 2
         - time: 18:30 - 19:00
-          type: plenary
+          type: crossteam
           title: Cross-team session - Part 3
           chair:
         - time: 19:00 - 20:00
@@ -66,7 +66,7 @@ schedule:
           type: recreation
           title: Coffee break
         - time: 17:00 - 19:00
-          type: plenary
+          type: teamchallenge
           title: Teamwork challenge
           chair: 
         - time: 19:00 - 20:00
