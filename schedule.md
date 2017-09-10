@@ -42,7 +42,7 @@ schedule:
           title: Cross-team session - Part 2
         - time: 18:30 - 19:00
           type: plenary
-          title: Cross-team session - Part 3 discussion
+          title: Cross-team session - Part 3
           chair:
         - time: 19:00 - 20:00
           type: recreation
@@ -53,14 +53,14 @@ schedule:
     - day: Wednesday, January 31, 2018
       sections:
         - time: 09:00 - 10:30
-          type: workshop
-          title: Workshops take 1
+          type: plenary
+          title: Wrap-up cross-team sessions
         - time: 10:30 - 15:00
           type: recreation
           title: Break and lunch
         - time: 15:00 - 16:30
-          type: workshop
-          title: Workshops take 2
+          type: plenary
+          title: Teamwork challenge
           chair: 
         - time: 16:30 - 17:00
           type: recreation
