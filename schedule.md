@@ -9,7 +9,7 @@ schedule:
           title: Check-in and registration
         - time: 18:30 - 19:30
           type: plenary
-          title: Opening session with an introduction by Gudmund Høst
+          title: Opening session with an introduction by Gudmund Høst - plenary
           chair: 
         - time: 19:30 - 21:00
           type: recreation
@@ -21,14 +21,14 @@ schedule:
       sections:
         - time: 09:00 - 10:15
           type: plenary
-          title: Keynote speaker
+          title: Keynote speaker - plenary
           chair: 
         - time: 10:15 - 15:00
           type: recreation
           title: Break and lunch
         - time: 15:00 - 15:30
           type: crossteam
-          title: Cross-team session - Intro
+          title: Cross-team session - Intro - plenary
           chair:
         - time: 15:30 - 16:30
           type: crossteam
@@ -53,14 +53,14 @@ schedule:
     - day: Wednesday, January 31, 2018
       sections:
         - time: 09:00 - 10:30
-          type: plenary
-          title: Wrap-up cross-team sessions
+          type: crossteam
+          title: Wrap-up cross-team sessions - plenary
         - time: 10:30 - 15:00
           type: recreation
           title: Break and lunch
         - time: 15:00 - 16:30
-          type: plenary
-          title: Teamwork challenge
+          type: workshop
+          title: Workshops/tutorials
           chair: 
         - time: 16:30 - 17:00
           type: recreation
@@ -78,9 +78,9 @@ schedule:
     - day: Thursday, February 1, 2018
       sections:
         - time: 09:00 - 12:00
-          type: workshop
+          type: teamsession
           title: Team sessions
         - time: 12:00 - 13:00
           type: various
-          title: Practical information and lunch
+          title: Practical information and lunch - plenary
 ---
