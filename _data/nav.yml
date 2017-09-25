@@ -7,6 +7,8 @@ main:
     text: 'Tutorials'
   - url: '/practical/'
     text: 'Practical'
+  - url: '/crossteam/'
+    text: 'Crossteam'
   - url: '/registration/'
     text: 'Registration'
   - url: '/contact/'
