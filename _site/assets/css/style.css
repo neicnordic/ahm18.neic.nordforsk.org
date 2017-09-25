@@ -57,7 +57,16 @@ a.anchor {
 }
 
 .teamchallenge{
-    background-color: #9370db;
+    background-color: #DDA0DD;
+}
+
+.workshop{
+    background-color: #FFD700;
+
+}
+
+.teamsession{
+    background-color: #1e90ff;
 }
 
 .inactive {
