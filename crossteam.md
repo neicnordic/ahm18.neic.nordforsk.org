@@ -14,7 +14,7 @@ We split the cross-team sessions in 3 parts:
 
 - Flash talks: present your project with an aim to be understood by a large audience
 - Hands-on: show your skills and how you solved a particular problem in your project
-- Discuss and share: discuss on a topic presented during the previous hands-on session and write a blog and present the main outcomes ina 2-3 minutes oral 
+- Discuss and share: discuss on a topic presented during the previous hands-on session, write a blog and present the main outcomes in a 2-3 minutes oral 
 presentation during the wrap-up session on Wednesday.
 
 
@@ -41,7 +41,7 @@ For instance:
 - Show how you can visualize large datasets from your laptop (remote visualization)
 - Teach us how you deploy containers (docker/signularity) and allow computations close to data 
 - Present the approach and tools you use to track issues/bugs (such as Trello) and test your software before a new release
-- Show us how which version control tool you use and how you use it in your project
+- Show us which version control tool you use and how you use it in your project
 - Show us how you organize code review in your project
 - Show how you check the quality of your data before archiving/publishing
 - Teach us how you check the performance of your applications
@@ -60,13 +60,13 @@ would like each team to discuss about what they have learnt and how they would s
 
 The following guidance is given to help you for this session:
 - Take about 1 hour to discuss about the topic chosen in your team.
-- Write a short blog on your findings during the rest of the session: choose one or two pictures and write 
+- Write a short blog on your findings during the rest of the session: choose one or two pictures and write a few paragraphs
 - Keep about 10 minutes before the end of the session to choose who will present your findings during the wrap-up session 
 and prepare your 2-3 minutes presentation.
 
 
-Some more information on speed blogging can be found [here](https://www.software.ac.uk/term/speed-blogging). And to get an idea of what has been achieved take
-a look a the following [Speed blog](https://www.software.ac.uk/tags/speed-blog-posts) posts:
+More information on speed blogging can be found [here](https://www.software.ac.uk/term/speed-blogging). And to get an idea of what has been achieved take
+a look at the following [Speed blog](https://www.software.ac.uk/tags/speed-blog-posts) posts:
 - [Improving diversity in research software projects and events](https://www.software.ac.uk/blog/2017-06-01-improving-diversity-research-software-projects-and-events)
 - [Constructive code critique](https://www.software.ac.uk/blog/2017-05-11-constructive-code-critique)
 - [Making data open: resources, gaps and incentives](https://www.software.ac.uk/blog/2017-05-24-making-data-open-resources-gaps-and-incentives)
