@@ -35,13 +35,22 @@ To learn about each other work and skills, we wish each NEIC project to present 
 problem in their project.  Each project should offer at least one hands-on but we strongly encourage you to present several topics so we can find synergies 
 between projects and better organize team work.
 
+
 For instance:
 
-- show how you can visualize large datasets from your laptop (remote visualization)
-- teach us how you deploy containers (docker/signularity) and allow computations close to data 
-- present the approach and tools you use to track issues/bugs and test your software before a new release
-- show how you check the quality of your data before archiving/publishing
-- teach us how you check the performance of your applications
+- Show how you can visualize large datasets from your laptop (remote visualization)
+- Teach us how you deploy containers (docker/signularity) and allow computations close to data 
+- Present the approach and tools you use to track issues/bugs (such as Trello) and test your software before a new release
+- Show us how which version control tool you use and how you use it in your project
+- Show us how you organize code review in your project
+- Show how you check the quality of your data before archiving/publishing
+- Teach us how you check the performance of your applications
+- Show us how you use Agile, with Github, Zenhub, and Slack to drive distributed software development.
+- Hands-on on how to do use Spotify Rhythm to do agile project prioritization
+- Show us how to use Google docs in stakeholder engagement
+- Show us how you use Slack for your project
+- Show us what you use for data management in your project
+...
 
 
 ### Speed blogging
