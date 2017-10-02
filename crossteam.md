@@ -10,16 +10,31 @@ Although we are all involved in a NEIC activity or project, we hardly have a goo
 
 The main goal of these cross-team sessions is to learn about each other, find synergies and trigger cross-disciplinary collaboration. 
 
+We split the cross-team sessions in 3 parts:
+
+- Flash talks: present your project with an aim to be understood by a large audience
+- Hands-on: show your skills and how you solved a particular problem in your project
+- Discuss and share: discuss on a topic presented during the previous hands-on session and write a blog and present the main outcomes ina 2-3 minutes oral 
+presentation during the wrap-up session on Wednesday.
+
 
 ### Flash talk to overcome communication mismatch
 
-In the first part, we wish each project to make a short presentation to explain what their projet is about and why it is important to get NEIC support.
+In the first part, we wish each project to make a presentation to explain what is their project about and why it is important to get NEIC support.
 
-No more than 5 minutes for each project.
+Each project will have no more than 5 minutes to present their work in an engaging and accessible way;  
+These flash talks are aimed to be understood by non-specialist audiences but you should try to highlight the challenges met in your project and why 
+collaboration within Nordic countries facilitates searching and finding appropriate solutions for these problems.
+
+Some information on how to give a flash talk can be found [here](https://www.software.ac.uk/home/cw11/giving-good-lightning-talk).
+
 
 ### Learn with hands-on
 
-To learn about each other, we wish each NEIC project to present (in a very practical way i.e. with hands-on) how they solved a particular problem in their project.
+To learn about each other work and skills, we wish each NEIC project to present (in a very practical way i.e. with hands-on) how they solved a particular 
+problem in their project.  Each project should offer at least one hands-on but we strongly encourage you to present several topics so we can find synergies 
+between projects and better organize team work.
+
 For instance:
 
 - show how you can visualize large datasets from your laptop (remote visualization)
@@ -31,8 +46,23 @@ For instance:
 
 ### Speed blogging
 
-Because we would like you share your views on how a specific problem was solved, we would like each team to discuss about what they have learnt and how they
-would solve (or have solved) similar problems in their project.
+Because we would like you share your views on how a specific problem was solved, we will create teams on the basis on the previous hands-on topics and we 
+would like each team to discuss about what they have learnt and how they would solve (or have solved) similar problems in their project.
 
-Write a short blog on your findings.
+The following guidance is given to help you for this session:
+- Take about 1 hour to discuss about the topic chosen in your team.
+- Write a short blog on your findings during the rest of the session: choose one or two pictures and write 
+- Keep about 10 minutes before the end of the session to choose who will present your findings during the wrap-up session 
+and prepare your 2-3 minutes presentation.
+
+
+Some more information on speed blogging can be found [here](https://www.software.ac.uk/term/speed-blogging). And to get an idea of what has been achieved take
+a look a the following [Speed blog](https://www.software.ac.uk/tags/speed-blog-posts) posts:
+- [Improving diversity in research software projects and events](https://www.software.ac.uk/blog/2017-06-01-improving-diversity-research-software-projects-and-events)
+- [Constructive code critique](https://www.software.ac.uk/blog/2017-05-11-constructive-code-critique)
+- [Making data open: resources, gaps and incentives](https://www.software.ac.uk/blog/2017-05-24-making-data-open-resources-gaps-and-incentives)
+- [Privacy and Trust issues in IoT and Open Data](https://www.software.ac.uk/blog/2017-05-29-privacy-and-trust-issues-iot-and-open-data)
+- [Decisions decisions decisions: Things to be aware of when choosing your research software stack](https://www.software.ac.uk/blog/2017-05-11-decisions-decisions-decisions-things-be-aware-when-choosing-your-research-software)
+- [Software Metrics—why and how?](https://www.software.ac.uk/blog/2017-05-09-software-metrics-why-and-how)
+
 
