@@ -52,9 +52,12 @@ schedule:
           title: Dinner
     - day: Wednesday, January 31, 2018
       sections:
-        - time: 09:00 - 10:30
+        - time: 09:00 - 09:30
           type: crossteam
           title: Wrap-up cross-team sessions - plenary
+        - time: 09:30 - 10:30
+          type: plenary
+          title: Next NeIC strategy
         - time: 10:30 - 15:00
           type: recreation
           title: Break and lunch
