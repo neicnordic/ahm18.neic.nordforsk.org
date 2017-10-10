@@ -39,10 +39,10 @@ schedule:
           chair:
         - time: 17:00 - 18:30
           type: crossteam
-          title: Cross-team session - Part 2
+          title: Cross-team session - Part 2 - Demo and discussion session
         - time: 18:30 - 19:00
           type: crossteam
-          title: Cross-team session - Part 3
+          title: Cross-team session - Part 3 - Speed blogging "The future"
           chair:
         - time: 19:00 - 20:00
           type: recreation
