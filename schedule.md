@@ -46,7 +46,7 @@ schedule:
           chair:
         - time: 19:00 - 20:00
           type: recreation
-          title: Free time
+          title: Break
         - time: 20:00 - 21:30
           type: recreation
           title: Dinner
