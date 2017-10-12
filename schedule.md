@@ -26,18 +26,18 @@ schedule:
         - time: 10:15 - 15:00
           type: recreation
           title: Break and lunch
-        - time: 15:00 - 16:00
+        - time: 15:00 - 15:45
           type: crossteam
           title: Cross-team session - Part 1 - Flash talk - plenary
           chair:
-        - time: 16:00 - 16:30
+        - time: 15:45 - 16:15
           type: recreation
           title: Coffee break
           chair:
-        - time: 16:30 - 18:30
+        - time: 16:15 - 17:30
           type: crossteam
           title: Cross-team session - Part 2 - Demo and discussion session
-        - time: 18:30 - 19:00
+        - time: 17:30 - 19:00
           type: crossteam
           title: Cross-team session - Part 3 - Speed blogging "The future"
           chair:
