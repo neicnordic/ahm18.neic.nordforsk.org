@@ -6,7 +6,7 @@ include: default
 ### Cross-team sessions' goals
 
 
-Although we are all involved in a NEIC activity or project, we hardly have a good overview of all the NEIC projects.
+Although we are all involved in a NeIC activity or project, we hardly have a good overview of all the NeIC projects.
 
 The main goal of these cross-team sessions is to learn about each other, find synergies and trigger cross-disciplinary collaboration. 
 
@@ -14,13 +14,13 @@ We split the cross-team sessions in 3 parts:
 
 - Flash talks: present your project with an aim to be understood by a large audience
 - Hands-on: show your skills and how you solved a particular problem in your project
-- Discuss and share: discuss on a topic presented during the previous hands-on session, write a blog and present the main outcomes in a 2-3 minutes oral 
+- Discuss and share: future prospectives on a topic presented during the previous hands-on session, write a blog and present the main outcomes in a 2-3 minutes oral 
 presentation during the wrap-up session on Wednesday.
 
 
 ### Flash talk to overcome communication mismatch
 
-In the first part, we wish each project to make a presentation to explain what is their project about and why it is important to get NEIC support.
+In the first part, we wish each project to make a presentation to explain what is their project about and why it is important to get NeIC support.
 
 Each project will have no more than 5 minutes to present their work in an engaging and accessible way;  
 These flash talks are aimed to be understood by non-specialist audiences but you should try to highlight the challenges met in your project and why 
@@ -31,9 +31,9 @@ Some information on how to give a flash talk can be found [here](https://www.sof
 
 ### Learn with hands-on
 
-To learn about each other work and skills, we wish each NEIC project to present (in a very practical way i.e. with hands-on) how they solved a particular 
-problem in their project.  Each project should offer at least one hands-on but we strongly encourage you to present several topics so we can find synergies 
-between projects and better organize team work.
+To learn about each other work and skills, we wish each NeIC project to present (in a very practical way i.e. with hands-on) how 
+they solved a particular problem in their project.  
+Each project should offer at least one hands-on but we strongly encourage you to present several topics. 
 
 
 For instance:
@@ -51,7 +51,6 @@ For instance:
 - Show us how you use Slack for your project
 - Show us what you use for data management in your project
 ...
-
 
 ### Speed blogging
 
