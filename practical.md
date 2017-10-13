@@ -19,15 +19,15 @@ swimming trunks or ski equipment for use of amenities out of scheduled hours.
 
 
 ### Arrival
-- First shuttle leaves Oslo airport Monday, Jan 29, 14:00 (arrives in Skeikampen approximately 17:00).
-- Last shuttle leaves Oslo airport Monday, Jan 29, 15:00 (arrives in Skeikampen approximately 18:00).
+- First shuttle leaves Oslo airport Monday, Jan 29, 11:00 (arrives in Skeikampen approximately 11:00).
+- Last shuttle leaves Oslo airport Monday, Jan 29, 14:00 (arrives in Skeikampen approximately 17:00).
 - We meet no later than 10 minutes before departure at the Hittegods (Lost and Found) section in the airport arrival hall.
+- Contact person for the 11:00 bus is [xxx]().
 - Contact person for the 14:00 bus is [xxx]().
-- Contact person for the 15:00 bus is [xxx]().
 
 
 ### Departure
-- First shuttle leaves Skeikampen Thursday, Feb 01, 13:00 (arrives at Oslo airport approximately 16:00).
+- First shuttle leaves Skeikampen Thursday, Feb 01, 11:00 (arrives at Oslo airport approximately 14:00).
 - Last shuttle leaves Skeikampen Thursday, Feb 01, 14:00 (arrives at Oslo airport approximately 17:00).
 
 ### Public transportation in case you need to leave earlier
