@@ -27,7 +27,7 @@ swimming trunks or ski equipment for use of amenities out of scheduled hours.
 
 
 ### Departure
-- First shuttle leaves Skeikampen Thursday, Feb 01, 11:00 (arrives at Oslo airport approximately 14:00).
+- First shuttle leaves Skeikampen Thursday, Feb 01, 13:00 (arrives at Oslo airport approximately 16:00).
 - Last shuttle leaves Skeikampen Thursday, Feb 01, 14:00 (arrives at Oslo airport approximately 17:00).
 
 ### Public transportation in case you need to leave earlier
