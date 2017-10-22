@@ -6,21 +6,23 @@ include: default
 ### Cross-team sessions' goals
 
 
-Although we are all involved in a NeIC activity or project, we hardly have a good overview of all the NeIC projects.
-
-The main goal of these cross-team sessions is to learn about each other, find synergies and trigger cross-disciplinary collaboration. 
+Although we are all involved in a NeIC activity or project, we don't always have a good overview of all the NeIC projects. The is even more true as the number
+of NEIC projects increase and new staff are hired.
+ 
+The main goal of these cross-team sessions is to learn about each other, share knowledge, find synergies and trigger cross-disciplinary collaboration. 
 
 We split the cross-team sessions in 3 parts:
 
 - Flash talks: present your project with an aim to be understood by a large audience
 - Hands-on: show your skills and how you solved a particular problem in your project
-- Discuss and share: future prospectives on a topic presented during the previous hands-on session, write a blog and present the main outcomes in a 2-3 minutes oral 
+- Discuss and share: discuss about future prospectives on a chosen topic, write a blog, and present the main outcomes in a 2-3 minutes oral 
 presentation during the wrap-up session on Wednesday.
 
 
 ### Flash talk to overcome communication mismatch
 
-In the first part, we wish each project to make a presentation to explain what is their project about and why it is important to get NeIC support.
+In the first part, we wish each project manager to make a very short oral presentation to explain what is their project about and why it is important to 
+get NeIC support.
 
 Each project will have no more than 5 minutes to present their work in an engaging and accessible way;  
 These flash talks are aimed to be understood by non-specialist audiences but you should try to highlight the challenges met in your project and why 
@@ -31,31 +33,48 @@ Some information on how to give a flash talk can be found [here](https://www.sof
 
 ### Learn with hands-on
 
-To learn about each other work and skills, we wish each NeIC project to present (in a very practical way i.e. with hands-on) how 
-they solved a particular problem in their project.  
-Each project should offer at least one hands-on but we strongly encourage you to present several topics. 
+We all met successfully a technological or methodological challenge in our project and this session is about sharing our success and knowledge with
+other NEIC projects.
+
+Each project has been asked to submit at least one topic for a short hand-on/demo/show me your tool session and when you registered you were asked to choose a topic 
+in the list below:
 
 
-For instance:
+We will try our best to accommodate your choice but keep in mind that we have to dispatch all of you within these groups to create cross-teams.
 
-- Show how you can visualize large datasets from your laptop (remote visualization)
-- Teach us how you deploy containers (docker/signularity) and allow computations close to data 
-- Present the approach and tools you use to track issues/bugs (such as Trello) and test your software before a new release
-- Show us which version control tool you use and how you use it in your project
-- Show us how you organize code review in your project
-- Show how you check the quality of your data before archiving/publishing
-- Teach us how you check the performance of your applications
-- Show us how you use Agile, with Github, Zenhub, and Slack to drive distributed software development.
-- Hands-on on how to do use Spotify Rhythm to do agile project prioritization
-- Show us how to use Google docs in stakeholder engagement
-- Show us how you use Slack for your project
-- Show us what you use for data management in your project
-...
+
+1. How do you use next cloud service like [data.deic.dk](https://data.deic.dk/)?
+2. How did we used machine learning algorithms for species and habitat identification and processing of sensor–based data?
+3. How do we use the Earth System Grid Federation (ESGF) to disseminate model outputs and observational data in Earth Sciences?
+4. How do we use Slack, TypeForm and Zendesk in our project?
+5. How do we use github in our project?
+6. Wiki hackathon: learn and share your tricks to write wiki pages 
+7. How do we use google drive in our project?
+8. How to add a workshop into [indico](https://indico.neic.no)?
+9. How to deploy a local EGA (European Genome Archive) repository for sensitive data?
+10. How can I find and deploy a scientific workflow in the cloud?
+11. Legal aspects: come and get a demo.
+
+
 
 ### Speed blogging
 
-Because we would like you share your views on how a specific problem was solved, we will create teams on the basis on the previous hands-on topics and we 
-would like each team to discuss about what they have learnt and how they would solve (or have solved) similar problems in their project.
+During this session we are going to discuss and write blogs. Like in the previous session, you have been asked to choose speed-blogging topics 
+(by order of preference) at registration time. We have done our best to accommodate your choice but we had to make sure no more we had no more than 5 
+persons per topic!
+
+While we discussed and shared our sucess stories in the previous session, here we will discuss future perspectives on:
+
+1. How do you create a NeIC identity (HR policy, competence development, 10% helping time, NeIC culture, branding and visibility, keeping this alive)?
+2. How do we best organize documentation? What is the best tool, strategy (inwards & outwards, googleTeam? vendor Lock-In trap)?
+3. How can we bootstrap and manage projects in a light way?
+4. How do we build a Nordic-wide community of scientific software developers, application experts and other e-science experts? An inspiring
+example of how this can work is the community of research software engineers (RSEs) in the UK. What will it take to build a RSE-like community in the Nordics? What are the challenges in
+creating a community over Nordic borders? What role can NeIC play in this endeavour?
+5. What are the next step to deploy a local European Genome Archive (EGA) development environment for the Nordic countries?
+6. Make a movie on the NeIC vision and strategic process!
+7. What does the future hold for data mining?
+
 
 The following guidance is given to help you for this session:
 - Take about 1 hour to discuss about the topic chosen in your team.
