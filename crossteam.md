@@ -50,7 +50,7 @@ We will try our best to accommodate your choice but keep in mind that we have to
 ### Speed blogging
 
 During this session we are going to discuss and write blogs. Like in the previous session, you have been asked to choose speed-blogging topics 
-(by order of preference) at registration time. 
+(by order of preference) at registration time. You will be at most 5 people per topic.
 
 While we discussed and shared our sucess stories in the previous session, here we will discuss future perspectives on:
 
