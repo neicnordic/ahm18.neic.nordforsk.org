@@ -36,16 +36,16 @@ Some information on how to give a flash talk can be found [here](https://www.sof
 We all met successfully a technological or methodological challenge in our project and this session is about sharing our success and knowledge with
 other NEIC projects.
 
-Each project has been asked to submit at least one topic for a short hand-on/demo/show me your tool session and when you registered you were asked to choose a topic 
-in the list below:
-
-
-We will try our best to accommodate your choice but keep in mind that we have to dispatch all of you within these groups to create cross-teams.
+Each project has been asked to submit at least one topic for a short hand-on/demo/show me your tool session. All projects have very well responded and thanks to their feedbacks and internal discussions we have now the following topics:
 
 1. How do we use tools for version control and co-editing e.g. Google drive, Wiki, Github?
 2. How do we use Slack, TypeForm and Zendesk to organise communication and events?
 3. How do we use the next cloud service like data.deic.dk? How can you find and deploy a scientific workflow in the cloud?
 4. How do we use machine learning algorithms to improve our data processing?
+
+Do not forget to choose your topic when you register otherwise we would have to randomly assign you to a cross-team!
+
+We will try our best to accommodate your choice but keep in mind that we have to dispatch all of you within these groups to create cross-teams.
 
 ### Speed blogging
 
