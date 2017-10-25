@@ -42,20 +42,10 @@ in the list below:
 
 We will try our best to accommodate your choice but keep in mind that we have to dispatch all of you within these groups to create cross-teams.
 
-
-1. How do you use next cloud service like [data.deic.dk](https://data.deic.dk/)?
-2. How did we used machine learning algorithms for species and habitat identification and processing of sensor–based data?
-3. How do we use the Earth System Grid Federation (ESGF) to disseminate model outputs and observational data in Earth Sciences?
-4. How do we use Slack, TypeForm and Zendesk in our project?
-5. How do we use github in our project?
-6. Wiki hackathon: learn and share your tricks to write wiki pages 
-7. How do we use google drive in our project?
-8. How to add a workshop into [indico](https://indico.neic.no)?
-9. How to deploy a local EGA (European Genome Archive) repository for sensitive data?
-10. How can I find and deploy a scientific workflow in the cloud?
-11. Legal aspects: come and get a demo.
-
-
+1. How do we use tools for version control and co-editing e.g. Google drive, Wiki, Github?
+2. How do we use Slack, TypeForm and Zendesk to organise communication and events?
+3. How do we use the next cloud service like data.deic.dk? How can you find and deploy a scientific workflow in the cloud?
+4. How do we use machine learning algorithms to improve our data processing?
 
 ### Speed blogging
 
