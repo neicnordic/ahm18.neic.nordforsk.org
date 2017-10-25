@@ -6,7 +6,7 @@ include: default
 ### Cross-team sessions' goals
 
 
-Although we are all involved in a NeIC activity or project, we don't always have a good overview of all the NeIC projects. The is even more true as the number
+Although we are all involved in a NeIC activity or project, we don't always have a good overview of all the NeIC projects. This is even more true as the number
 of NEIC projects increase and new staff are hired.
  
 The main goal of these cross-team sessions is to learn about each other, share knowledge, find synergies and trigger cross-disciplinary collaboration. 
@@ -19,9 +19,9 @@ We split the cross-team sessions in 3 parts:
 presentation during the wrap-up session on Wednesday.
 
 
-### Flash talk to overcome communication mismatch
+### Flash talk for project overview
 
-In the first part, we wish each project manager to make a very short oral presentation to explain what is their project about and why it is important to 
+In the first part, we wish each project manager to make a very short oral presentation to explain what their project is about and why it is important to 
 get NeIC support.
 
 Each project will have no more than 5 minutes to present their work in an engaging and accessible way;  
@@ -33,10 +33,10 @@ Some information on how to give a flash talk can be found [here](https://www.sof
 
 ### Learn with hands-on
 
-We all met successfully a technological or methodological challenge in our project and this session is about sharing our success and knowledge with
+We all successfully met a technological or methodological challenge in our project and this session is about sharing our success and knowledge with
 other NEIC projects.
 
-Each project has been asked to submit at least one topic for a short hand-on/demo/show me your tool session. All projects have very well responded and thanks to their feedbacks and internal discussions we have now the following topics:
+Each project has been asked to submit at least one topic for a short hand-on/demo/show me your tools session. All projects have responded and thanks to their feedback and internal discussions we have converged to the following topics:
 
 1. How do we use tools for version control and co-editing e.g. Google drive, Wiki, Github?
 2. How do we use Slack, TypeForm and Zendesk to organise communication and events?
@@ -50,8 +50,7 @@ We will try our best to accommodate your choice but keep in mind that we have to
 ### Speed blogging
 
 During this session we are going to discuss and write blogs. Like in the previous session, you have been asked to choose speed-blogging topics 
-(by order of preference) at registration time. We have done our best to accommodate your choice but we had to make sure no more we had no more than 5 
-persons per topic!
+(by order of preference) at registration time. 
 
 While we discussed and shared our sucess stories in the previous session, here we will discuss future perspectives on:
 
