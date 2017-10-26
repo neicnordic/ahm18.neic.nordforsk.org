@@ -57,7 +57,7 @@ a.anchor {
 }
 
 .teamchallenge{
-    background-color: #DDA0DD;
+    background-color: #DEB887;
 }
 
 .workshop{
@@ -72,9 +72,6 @@ a.anchor {
 .inactive {
     background-color: #ffffff;
 }
-###419d78 purple
-###e36414
-##0f4c5c
 
 @-webkit-keyframes fadeIt {
   0%   { background-color: #ff0000; }
@@ -109,4 +106,13 @@ a.anchor {
 
 .hover_area:hover .hidden_area {
     display: inline;
+}
+
+a{
+color: #000000;
+#text-decoration: underline;
+}
+
+a:link {
+    color: darkblue;
 }

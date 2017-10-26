@@ -20,32 +20,13 @@
                                     </td>
                                     <td>
                                         <div class="hover_area">
-                                            <a class="anchor" id="{{ day_index }}-{{ section_index }}"></a>
-                                            {{ section.title }}
-                                            <div class="hidden_area">
-                                                <button type="button"
-                                                        class="btn btn-info btn-xs"
-                                                        data-toggle="modal"
-                                                        data-target="#share_link_modal_{{ day_index }}_{{ section_index }}">share</button>
-                                            </div>
-                                            <div id="share_link_modal_{{ day_index }}_{{ section_index }}" class="modal fade" role="dialog">
-                                                <div class="modal-dialog">
-                                                    <div class="modal-content">
-                                                        <div class="modal-header">
-                                                            <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                            <h4 class="modal-title">Direct link to this session</h4>
-                                                        </div>
-                                                        <div class="modal-body">
-                                                            <p>{[ url ]}/schedule/#{{ day_index }}-{{ section_index }}</p>
-                                                        </div>
-                                                        <div class="modal-footer">
-                                                            <button type="button"
-                                                                    class="btn btn-default"
-                                                                    data-dismiss="modal">Close</button>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
+					  {% if section.page %}
+					  <a href="{{ site.baseurl }}/{{ section.page }}" target="_blank">{{ section.title}}</a>
+					  {% else %}
+					  <!--<a class="anchor" id="{{ day_index }}-{{ section_index }}"></a>-->
+                                          {{ section.title}}
+					  {% endif %}
+                                        </div>
                                             {% if section.chair %}
                                                 <br>
                                                 Chair: {{ section.chair }}
