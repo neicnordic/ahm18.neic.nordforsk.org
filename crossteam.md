@@ -7,7 +7,7 @@ include: default
 
 
 Although we are all involved in a NeIC activity or project, we don't always have a good overview of all the NeIC projects. This is even more true as the number
-of NEIC projects increase and new staff are hired.
+of NeIC projects increase and new staff are hired.
  
 The main goal of these cross-team sessions is to learn about each other, share knowledge, find synergies and trigger cross-disciplinary collaboration. 
 
@@ -34,12 +34,12 @@ Some information on how to give a flash talk can be found [here](https://www.sof
 ### Learn with hands-on
 
 We all successfully met a technological or methodological challenge in our project and this session is about sharing our success and knowledge with
-other NEIC projects.
+other NeIC projects.
 
 Each project has been asked to submit at least one topic for a short hand-on/demo/show me your tools session. All projects have responded and thanks to their feedback and internal discussions we have converged to the following topics:
 
 1. How do we use tools for version control and co-editing e.g. Google drive, Wiki, Github?
-2. How do we use Slack, TypeForm and Zendesk to organise communication and events?
+2. How do we use Slack, TypeForm, Zendesk and indico to organise communication and events?
 3. How do we use the next cloud service like data.deic.dk? How can you find and deploy a scientific workflow in the cloud?
 4. How do we use machine learning algorithms to improve our data processing?
 
