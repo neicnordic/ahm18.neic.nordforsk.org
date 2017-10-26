@@ -28,7 +28,22 @@
             </style>
         {% endif %}
 
+{% if page.name == "index.md" %}
+        <div ng-controller="controller">
+            {% include navigation.html %}
 
+            <!--<div class="container">-->
+	      <div class="frontpage">
+                {% if page.include %}
+                    {% include {{ page.include }}.html %}
+                {% endif %}
+	      </div>
+            <!--</div>-->
+
+            {% include js.html %}
+        </div>
+
+{% else %}
         <div ng-controller="controller">
             {% include navigation.html %}
 
@@ -40,6 +55,7 @@
 
             {% include js.html %}
         </div>
+{% endif %}
 
     </body>
 </html>
