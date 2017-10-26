@@ -23,7 +23,7 @@ schedule:
         - time: 09:00 - 10:15
           type: plenary
           title: Keynote speaker - plenary
-          page: 
+          page: /keynote
           chair: 
         - time: 10:15 - 15:00
           type: recreation
