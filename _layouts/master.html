@@ -10,7 +10,7 @@
                     body {
                         background: #ffffff;
                         background-image: url("{{ site.baseurl }}/assets/img/skeikampen_pano.jpg");
-                        background-size: 62%;
+                        background-size: 200%;
                         background-repeat: no-repeat;
                         background-position: center top;
                     }
@@ -20,13 +20,14 @@
                     body {
                         background: #ffffff;
                         background-image: url("{{ site.baseurl }}/assets/img/skeikampen_pano.jpg");
-                        background-size: 300%;
+                        background-size: 200%;
                         background-repeat: no-repeat;
                         background-position: center top;
                     }
                 }
             </style>
         {% endif %}
+
 
         <div ng-controller="controller">
             {% include navigation.html %}
@@ -39,5 +40,6 @@
 
             {% include js.html %}
         </div>
+
     </body>
 </html>
