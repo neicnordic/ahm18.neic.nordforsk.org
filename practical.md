@@ -39,12 +39,12 @@ and take about 1 hour and 45 mins.
 
 
 ### Intended participants
-The intended participants of the AHM are personnel contracted in NeIC
-operations or projects. If you are engaged in a NeIC project and not sure
-whether you should participate, please contact your team leader.  The program
-will include a major component of social networking, attempting to mitigate the
-effects of the completely distributed nature of NeIC and facilitate excellent
-working relations.
+The intended participants of the AHM are personnel contracted in the larger NeIC
+operations or projects such as NT1, Glenna, Tryggve, CodeRefinery and Dellingr. 
+If you are engaged in a NeIC project and not sure whether you should participate, 
+please contact your team leader.  The program will include a major component of social 
+networking, attempting to mitigate the effects of the completely distributed nature of 
+NeIC and facilitate excellent working relations.
 
 
 ### Other participants
