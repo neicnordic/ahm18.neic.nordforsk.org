@@ -73,12 +73,6 @@ a.anchor {
     background-color: #ffffff;
 }
 
-.frontpage {
-font-size: 0.5vw;
-margin-left: 10%; 
-
-}
-
 @-webkit-keyframes fadeIt {
   0%   { background-color: #ff0000; }
   100% { background-color: #fff6d2; }
@@ -121,4 +115,18 @@ color: #000000;
 
 a:link {
     color: darkblue;
+}
+
+
+
+.frontpage {
+margin-left: 10%; 
+}
+h2.frontpage{
+font-size:10px;
+}
+
+
+.nav a{
+font-size: 1.3em !important;
 }
