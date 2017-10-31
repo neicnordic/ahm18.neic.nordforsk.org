@@ -63,3 +63,8 @@ with your teammates and therefore we do in general not recommend to bring your
 family during the meeting. If you want to explore the location with your family
 you’re welcome to do so, but preferably before or after the AHM. NeIC, however,
 will not arrange any travel or accommodation for that.
+
+### NeIC Slack channels for the all-hands meeting
+ahm for practical and general information
+
+ahm-social for more informal sharing, e.g photographs and such.
