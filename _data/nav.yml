@@ -9,6 +9,8 @@ main:
     text: 'Tutorials'
   - url: '/teamwork/'
     text: 'Teamwork'
+  - url: '/strategy'
+    text: 'Strategy'
   - url: '/practical/'
     text: 'Practical'
   - url: '/registration/'
