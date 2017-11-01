@@ -5,6 +5,7 @@ include: default
 
 ### NeIC strategy session
 
+One major objective of this session is to involve NeICers in the strategic planning process. This will enable more fully understood and accepted connections between the strategic plan and the work that NeIC supports.
 
 The strategy session will introduce to the approach being taken by NeIC to 
 update the NeIC 2020 strategy.  The process has been discussed by the NeIC Board 
