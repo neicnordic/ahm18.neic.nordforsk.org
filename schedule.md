@@ -62,7 +62,7 @@ schedule:
         - time: 09:30 - 10:30
           type: plenary
           title: Next NeIC strategy
-          page: 
+          page: /strategy
         - time: 10:30 - 15:00
           type: recreation
           title: Break and lunch
