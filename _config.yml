@@ -48,6 +48,7 @@ defaults:
     values:
       permalink: /:path/:basename/
 
+
 # conversion
 markdown: kramdown
 highlighter: rouge
@@ -62,6 +63,9 @@ include: []
 
 collections:
   tutorials:
-    output: false
+    output: true 
+  crossteam:
+    output: true
+    permalink: /crossteam/:path/
 
 theme: jekyll-theme-cayman
