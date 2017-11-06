@@ -1,6 +1,7 @@
 ---
 organizers: Abdulrahman Azab
 title: Containers
+details: /tutorials/details1/
 ---
 
 Prerequisites: Basic knowledge of Linux (HTCondor is a plus for the HPC part), own laptop with ssh access (Install Putty for windows).
