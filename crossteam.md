@@ -43,9 +43,7 @@ Each project has been asked to submit at least one topic for a short hand-on/dem
 3. How do we use the next cloud service like data.deic.dk? How can you find and deploy a scientific workflow in the cloud?
 4. How do we use machine learning algorithms to improve our data processing?
 
-Do not forget to choose your topic when you register otherwise we would have to randomly assign you to a cross-team!
-
-We will try our best to accommodate your choice but keep in mind that we have to dispatch all of you within these groups to create cross-teams.
+You will chose one of the topics once at the AHM.
 
 ### Speed blogging
 
