@@ -64,8 +64,7 @@ include: []
 collections:
   tutorials:
     output: true 
-  crossteam:
+  crossteams:
     output: true
-    permalink: /crossteam/:path/
 
 theme: jekyll-theme-cayman

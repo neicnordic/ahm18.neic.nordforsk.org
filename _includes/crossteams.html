@@ -1,0 +1,107 @@
+<div class="row">
+    <div class="col-lg-12">
+	<h3>Cross-team sessions’ goals</h3>
+
+    Although we are all involved in a NeIC activity or project, we don’t always have a good overview of all the NeIC projects. This is even more true as the number of NeIC projects increase and new staff are hired.
+    <br>
+    The main goal of these cross-team sessions is to learn about each other, share knowledge, find synergies and trigger cross-disciplinary collaboration.
+    <br>
+    We split the cross-team sessions in 3 parts:
+    <br>
+    <ul>
+      <li>Flash talks: present your project with an aim to be understood by a large audience</li>
+      <li>Hands-on: show your skills and how you solved a particular problem in your project</li>
+      <li>Discuss and share: discuss about future prospectives on a chosen topic, write a blog, and present the main outcomes in a 2-3 minutes oral presentation during the wrap-up session on Wednesday.</li>
+    </ul>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-12">
+	<h3>Flash talk for project overview</h3>
+
+    In the first part, we wish each project manager to make a very short oral presentation to explain what their project is about and why it is important to get NeIC support.
+    <br>
+    Each project will have no more than 5 minutes to present their work in an engaging and accessible way;
+    These flash talks are aimed to be understood by non-specialist audiences but you should try to highlight the challenges met in your project and why collaboration within Nordic countries facilitates searching and finding appropriate solutions for these problems.
+    <br>
+    Some information on how to give a flash talk can be found <a href="https://www.software.ac.uk/home/cw11/giving-good-lightning-talk">here</a>.
+	</div>
+</div>
+<div class="row">
+    <div class="col-lg-12">
+        <h3>Learn with hands-on</h3>
+		Four parallel tutorials on Tuesday, January 30, 15:45 - 17:00.
+		<br>
+		We all successfully met a technological or methodological challenge in our project and this session is about sharing our success and knowledge with other NeIC projects.
+        <br>
+        Each project has been asked to submit at least one topic for a short hand-on/demo/show me your tools session. All projects have responded and thanks to their feedback and internal discussions we have converged to the following topics:
+        <p>
+				<ol>
+                    {% for crossteam in site.crossteams %}
+                    <!-- hack to not print the subpages here -->
+		    {% if crossteam.name == "details" %}
+		    {% elsif crossteam.name == "speed-blogging" %}
+		    {% else %}
+                        {% assign crossteam_index = forloop.index %}
+					  {% if crossteam.details%}
+					  <li>{{ crossteam.organizers }}: <a href="{{ site.baseurl }}/{{ crossteam.details }}"><b>{{crossteam.title}}</b></a></li>
+					  {% endif %}
+					<ul>
+                                   <li>     {{ crossteam.content | markdownify }}</li>
+					</ul>
+			{% endif %}
+                    {% endfor %}
+				</ol>
+		</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+	<h3>Speed blogging</h3>
+	
+     During this session we are going to discuss and write blogs. Like in the previous session, you have been asked to choose speed-blogging topics (by order of preference) at registration time. You will be at most 5 people per topic.
+
+     While we discussed and shared our sucess stories in the previous session, here we will discuss future perspectives on:
+	 <p>
+
+                <ol>
+                    {% for crossteam in site.crossteams %}
+                    <!-- hack to not print the subpages here -->
+		    {% if crossteam.name == "details" %}
+		    {% elsif crossteam.name == "hands-on" %}
+		    {% else %}
+                        {% assign crossteam_index = forloop.index %}
+					  {% if crossteam.details%}
+					  <li>{{ crossteam.organizers }}: <a href="{{ site.baseurl }}/{{ crossteam.details }}"><b>{{crossteam.title}}</b></a></li>
+					  {% endif %}
+				                <ul>
+                                      <li>  {{ crossteam.content | markdownify }} </li>
+                                </ul>
+			{% endif %}
+                    {% endfor %}
+					</ul>
+                </ol>
+		
+     </p>
+      The following guidance is given to help you for this session:
+	  <ul>
+        <li>Take about 1 hour to discuss about the topic chosen in your team.</li>
+        <li> Write a short blog on your findings during the rest of the session: choose one or two pictures and write a few paragraphs</li>
+        <li> Keep about 10 minutes before the end of the session to choose who will present your findings during the wrap-up session and prepare your 2-3 minutes presentation.</li>
+      </ul>
+      <br>
+      More information on speed blogging can be found <a href="https://www.software.ac.uk/term/speed-blogging">here</a>. And to get an idea of what has been achieved take
+      a look at the following <a href="https://www.software.ac.uk/tags/speed-blog-posts">Speed blog</a> posts:
+	  <ul>
+      <li> <a href="https://www.software.ac.uk/blog/2017-06-01-improving-diversity-research-software-projects-and-events">Improving diversity in research software projects and events</a>
+      <li> <a href="https://www.software.ac.uk/blog/2017-05-11-constructive-code-critique">Constructive code critique</a>
+      <li> <a href="https://www.software.ac.uk/blog/2017-05-24-making-data-open-resources-gaps-and-incentives">Making data open: resources, gaps and incentives</a>
+      <li> <a href="https://www.software.ac.uk/blog/2017-05-29-privacy-and-trust-issues-iot-and-open-data">Privacy and Trust issues in IoT and Open Data</a>
+      <li> <a href="https://www.software.ac.uk/blog/2017-05-11-decisions-decisions-decisions-things-be-aware-when-choosing-your-research-software">Decisions decisions decisions: Things to be aware of when choosing your research software stack</a>
+      <li> <a href="https://www.software.ac.uk/blog/2017-05-09-software-metrics-why-and-how">Software Metrics—why and how?</a>
+      </ul>
+
+
+    </div>
+</div>
