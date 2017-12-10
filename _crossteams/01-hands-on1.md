@@ -1,6 +1,6 @@
 ---
-organizers: TBD 
-title: How do we use tools for version control and co-editing e.g. Google drive, Wiki, Github? 
+organizers: TBD
+title: How to we use indico to manage complex conferences, workshops and meetings? 
 details: /crossteams/ho_details1/
 name: hands-on
 ---
