@@ -5,7 +5,7 @@ details: /crossteams/sb_details6/
 name: speed-blogging
 ---
 
-Don't you want to participate to the 2018 NeIC box office? 
+Do you want to participate to the 2018 NeIC box office? 
 
 The NeIC vision and strategic process movie is on its way!
 

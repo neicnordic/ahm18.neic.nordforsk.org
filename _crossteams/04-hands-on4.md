@@ -11,5 +11,4 @@ DeepDive project has adopted a different approach using Amazon services and Tave
 
 And you? Have you ever used cloud services and deployed scientific workflows? 
 
-It is still time to join our hands-on/show me your tool cross-team session!
 
