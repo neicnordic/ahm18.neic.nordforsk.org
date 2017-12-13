@@ -10,7 +10,7 @@ During this hands-on/show me your tool session, Ratatosk will show how they use 
 
 CodeRefinery uses Typeform for workshop registrations as well as workshop follow-up surveys. 
 
-For organizing this NeIC All Hands meeting, we chose ad-hoc tools...
+For organizing this NeIC All Hands meeting, we chose jekyll and github...
 
 What about you?
 
