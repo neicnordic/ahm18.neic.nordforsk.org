@@ -1,8 +1,18 @@
 ---
-organizers: TBD
-title: How do we use the next cloud service like data.deic.dk? How can you find and deploy a scientific workflow in the cloud? 
+organizers: Ratatosk
+title: How do we organize events (workshops, conferences, etc.)?
 details: /crossteams/ho_details3/
 name: hands-on
 ---
 
-Glenna 2 will show how to use data.deic.dk cloud service to deploy a data intensive scientific workflow. 
+During this hands-on/show me your tool session, Ratatosk will show how they use indico to help them to organize events such as conferences or workshops.
+
+
+CodeRefinery uses Typeform for workshop registrations as well as workshop follow-up surveys. 
+
+For organizing this NeIC All Hands meeting, we chose ad-hoc tools...
+
+What about you?
+
+Come and share **pros** and **cons** of the various approaches chosen by NeIC projects.
+

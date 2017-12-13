@@ -7,9 +7,9 @@ name: details
 
 <h3> TDB: </h3>
 
-Use this template to write your blog:
+Form your team and use Google Docs to write your blog:
 
-- Update the list of authors (replace TBD)
+- Give us the list of authors (to replace TBD)
 
 - No more than 4 to 5 persons per blog. 
 
