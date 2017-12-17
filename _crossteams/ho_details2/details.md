@@ -5,11 +5,11 @@ permalink: /crossteams/ho_details2/
 name: details
 ---
 
-<h3> TDB: Slack, TypeForm, Zendesk and indico</h3>
+<h3> Slack, Zendesk and github</h3>
 
 <h4>Goals</h4>
 
-The goal of this show me your tool session is to teach you how Slack and TypeForm are being used within the CodeRefinery project.
+The goal of this show me your tool session is to teach you how Slack, Zendesk and Github are being used within the CodeRefinery project.
 
 <h4>Practical information</h4>
 

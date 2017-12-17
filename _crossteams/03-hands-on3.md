@@ -1,13 +1,11 @@
 ---
-organizers: Ratatosk
-title: How do we organize events (workshops, conferences, etc.)?
+organizers: Anne-Marie Bach
+title: Simple stuff can be messy when not handled wisely - how to set up the very best event?
 details: /crossteams/ho_details3/
 name: hands-on
 ---
 
-During this experience sharing session, Ratatosk will show us how they organize events such as conferences or workshops.
+Your first impression determines the rest of your day.....entering a venue with an open mindset and the good feeling of someone has made the effort of welcoming you...
 
-Whatever tools you may use (indico, TypeForm, jekyll&github), preparation and organization are both crucial. 
-
-Come and share **pros** and **cons** of the various approaches chosen by NeIC projects for organizing events.
+During this session, Ratatosk will share with us their experience on how to best organize events.
 

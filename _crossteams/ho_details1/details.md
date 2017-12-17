@@ -5,7 +5,7 @@ permalink: /crossteams/ho_details1/
 name: details
 ---
 
-<h3> Chandan Basu: Services for sharing and exploring large datasets</h3>
+<h3>Services for sharing and exploring large datasets</h3>
 
 <h4>Goals</h4>
 

@@ -5,11 +5,11 @@ permalink: /crossteams/ho_details4/
 name: details
 ---
 
-<h3> TDB: smart data processing with machine learning</h3>
+<h3> Deploying your scientific workflow in the cloud</h3>
 
 <h4>Goals</h4>
 
-The goal of this session is to demonstrate how machine learning has been used in the DeppDive project for identifying and processing sensor-based data.
+Please fill this section.
 
 <h4>Practical information</h4>
 
