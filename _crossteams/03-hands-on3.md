@@ -1,11 +1,14 @@
 ---
-organizers: Anne-Marie Bach
-title: Simple stuff can be messy when not handled wisely - how to set up the very best event?
+organizers: Dan Still and Matthias Obst
+title: How do we use cloud services? How can you find and deploy a scientific workflow in the cloud? 
 details: /crossteams/ho_details3/
 name: hands-on
 ---
 
-Your first impression determines the rest of your day.....entering a venue with an open mindset and the good feeling of someone has made the effort of welcoming you...
+Glenna 2 will show how to use data.deic.dk cloud service to deploy a data intensive scientific workflow. 
 
-During this session, Ratatosk will share with us their experience on how to best organize events.
+DeepDive project has adopted a different approach using Amazon services and Taverna workflows (compatible with Kepler, Galaxy and R-based workflows).
+
+And you? Have you ever used cloud services and deployed scientific workflows? 
+
 

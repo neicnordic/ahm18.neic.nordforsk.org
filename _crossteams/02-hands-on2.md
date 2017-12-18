@@ -1,10 +1,11 @@
 ---
-organizers:  Anyone interested to participate!
-title:  How do we organize communication within and outside our project?
+organizers: Anne-Marie Bach
+title: Simple stuff can be messy when not handled wisely - how to set up the very best event?
 details: /crossteams/ho_details2/
 name: hands-on
 ---
 
-All NeIC projects need to organize both their internal and external communication. Some of us use tools such as slack, Zendesk, Github or/and Google drive both to organize communication (within and outside the project) and disseminate the results of our project.
+Your first impression determines the rest of your day.....entering a venue with an open mindset and the good feeling of someone has made the effort of welcoming you...
 
-To participate to this session, prepare a 5-10 mn presentation/hands-on on how you organize communication within/outside your project and come to discuss and share your experience.
+During this session, Ratatosk will share with us their experience on how to best organize events.
+
