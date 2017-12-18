@@ -126,3 +126,26 @@ margin-left: 10%;
 .nav a{
 font-size: 1.1em;
 }
+
+
+.sortable {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.sortable th, td {
+    border: 1px solid #ddd;
+    padding: 6px;
+}
+
+.sortable tr:nth-child(even){background-color: #f2f2f2;}
+
+.sortable tr:hover {background-color: #ddd;}
+
+.sortabe th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
