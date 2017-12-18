@@ -1,14 +1,10 @@
 ---
-organizers: Dan Still and Matthias Obst
-title: How do we use cloud services? How can you find and deploy a scientific workflow in the cloud? 
+organizers:  Anyone interested to participate!
+title:  How do we organize communication within and outside our project?
 details: /crossteams/ho_details4/
 name: hands-on
 ---
 
-Glenna 2 will show how to use data.deic.dk cloud service to deploy a data intensive scientific workflow. 
+All NeIC projects need to organize both their internal and external communication. Some of us use tools such as slack, Zendesk, Github or/and Google drive both to organize communication (within and outside the project) and disseminate the results of our project.
 
-DeepDive project has adopted a different approach using Amazon services and Taverna workflows (compatible with Kepler, Galaxy and R-based workflows).
-
-And you? Have you ever used cloud services and deployed scientific workflows? 
-
-
+To participate to this session, prepare a 5-10 mn presentation/hands-on on how you organize communication within/outside your project and come to discuss and share your experience.
