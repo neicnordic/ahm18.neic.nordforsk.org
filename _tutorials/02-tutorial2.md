@@ -10,7 +10,8 @@ will be done inside a Jupyter Notebook, so some valuable lessons in using this t
 
 The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. In order to participate in the workshop, you will need to install Jupyter Notebooks on your laptop. 
 We will use Python for our analysis so previous experience with Python is useful, but not required.
-The simplest way to install Python and Jupyter is through [Anaconda](https://www.anaconda.com/download/) or [Miniconda](https://conda.io/miniconda.html) (follow these links for downloads and installation instructions). If you install Anaconda, you are set. If you prefer Miniconda, you will need to install the following packages: `numpy`, `scipy`, `matplotlib`, `jupyter`, `pandas`, `seaborn` and `scikit-learn`, using the command `conda install <package-name>`
-or, if you prefer pip, `pip install <package-name>`
+The simplest way to install Python and Jupyter is through [Anaconda](https://www.anaconda.com/download/) or [Miniconda](https://conda.io/miniconda.html) (follow these links for downloads and installation instructions). The material has been prepared with Python 2.7.14, but Python 3 should also work.
+The following packages are required (many of which are shipped with Anaconda): `numpy`, `scipy`, `matplotlib`, `jupyter`, `pandas`, `seaborn`, `scikit-learn`, `nltk`, `textmining`, `lda` and `emoji`. These can be installed with 
+`conda install <package-name>` or `pip install <package-name>`.
 
 
