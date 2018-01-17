@@ -11,6 +11,9 @@ The goal of this session is to present recent developments in provision and cons
 If you’re interested to discuss how biodiversity services are federated on the cloud you can sign up on the following platforms prior to the meeting (www.biodiversitycatalogue.org/, https://portal.biovel.eu/) 
 
 Attendees will be able to
+
 ·      understand the opportunities and challenges related to the use of cloud services
+
 ·      discuss how cloud services can be used in their own scientific field
+
 ·      identify potential added value that can be obtained through use of cloud services across different NeIC programs
