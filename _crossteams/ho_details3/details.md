@@ -9,7 +9,7 @@ name: details
 
 <h4>Goals</h4>
 
-Please fill this section.
+The goal of this session is to present recent developments in provision and consumption of cloud services in Nordic countries. Examples will be presented from the NeIC projects Glenna2 (https://wiki.neic.no/wiki/Glenna2) and DeepDive (https://wiki.neic.no/wiki/Biodiversity). The session will include an introduction to cloud-based research infrastructure, presentation of examples and live demonstrations of cloud services, followed by a discussion of potential collaborations across NeIC projects.
 
 <h4>Practical information</h4>
 
