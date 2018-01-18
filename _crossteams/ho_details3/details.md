@@ -20,4 +20,10 @@ Please add any relevant information for attendees.
 
 <h4>Learning outcomes</h4>
 
-Please specify the learning outcomes of this hands-on/show me your tool. 
+Attendees will be able to
+
+· understand the opportunities and challenges related to the use of cloud services
+
+· discuss how cloud services can be used in their own scientific field
+
+· identify potential added value that can be obtained through use of cloud services across different NeIC programs
