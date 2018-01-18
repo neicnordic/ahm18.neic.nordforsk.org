@@ -1,5 +1,5 @@
 ---
-organizers:  Anyone interested to participate!
+organizers:  Anne Fouilloux and Maiken Pedersen
 title:  How do we organize communication within and outside our project?
 details: /crossteams/ho_details4/
 name: hands-on
@@ -7,4 +7,4 @@ name: hands-on
 
 All NeIC projects need to organize both their internal and external communication. Some of us use tools such as slack, Zendesk, Github or/and Google drive both to organize communication (within and outside the project) and disseminate the results of our project.
 
-To participate to this session, prepare a 5-10 mn presentation/hands-on on how you organize communication within/outside your project and come to discuss and share your experience.
+Give your inputs by completing [this survey](https://skjema.uio.no/ahmcrossteam4) (attendance to fill the survey is not mandatory) and come to share your experience and help us to establish best practices!
