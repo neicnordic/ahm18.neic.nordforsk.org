@@ -7,3 +7,5 @@ name: speed-blogging
 
 We would love to have it now... Let's discuss the next steps to deploy our local EGA development environment for the Nordic countries! 
 
+
+

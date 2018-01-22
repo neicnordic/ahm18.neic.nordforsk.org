@@ -4,7 +4,6 @@ title: Make a movie on the NeIC vision and strategic process!
 details: /crossteams/sb_details6/
 name: speed-blogging
 ---
-
 Do you want to participate to the 2018 NeIC box office? 
 
 The NeIC vision and strategic process movie is on its way!

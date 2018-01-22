@@ -5,8 +5,8 @@ permalink: /crossteams/sb_details1/
 name: details
 ---
 
-<h3> TDB: </h3>
-
+<h3> </h3>
+What is NeIC identity? What strategy to adopt to create a NeIC identity (HR policy, competence development, 10% helping time, NeIC culture, branding and visibility, keeping this alive)?
 Form your team and use Google Docs to write your blog:
 
 - Give us the list of authors (to replace TBD)

@@ -5,6 +5,7 @@ permalink: /crossteams/sb_details4/
 name: details
 ---
 
+
 <h3> TDB: </h3>
 
 Form your team and use Google Docs to write your blog:
