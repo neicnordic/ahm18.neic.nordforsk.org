@@ -25,8 +25,8 @@ swimming trunks or ski equipment for use of amenities out of scheduled hours.
 
 Bus-ride takes about 2.5 hours. 
 
-- Contact person for the 11:00 bus is [xxx]().
-- Contact person for the 14:00 bus is [xxx]().
+- Contact person for the 11:00 bus is Kine Nordstokkå (+47 90810670).
+- Contact person for the 14:00 bus is Marianne Strøm.
 
 
 ### Departure
