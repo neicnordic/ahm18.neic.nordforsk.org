@@ -17,7 +17,7 @@ For example, the NT1 project (LHC experiments) will share its experience in mana
 <h4>Practical information</h4>
 
 - Length of the session: 15:45-17:00
-- Requirements: Give your inputs by completing [this survey (https://qtrial2018q1az1.az1.qualtrics.com/jfe/form/SV_54sPm0hgS5nTfZb)]
+- Requirements: Give your inputs by completing [this survey](https://qtrial2018q1az1.az1.qualtrics.com/jfe/form/SV_54sPm0hgS5nTfZb)
 
 
 <h4>Learning outcomes</h4>
