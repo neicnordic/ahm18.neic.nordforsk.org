@@ -11,13 +11,13 @@ The overall goal of this teambuilding session is to have fun and link up with ot
 
 ### Format
 Quiz tournament using "Speedquizzing", see videos of the format here: [http://www.speedquizzing.com/](http://www.speedquizzing.com/). <br>
-Each team will have to use one smartphone for joining the quiz. Download the app from you app-sotre to prepare. Search for "speedquizzing". <br>
+Each team will have to use one smartphone for joining the quiz. Download the app from you app-store to prepare. Search for "speedquizzing". <br>
 
 We will put together teams mixing projects as much as possible. Which team you are inn will be announced closer to the day. 
 
 
 ### Contributing
-We enourage all that have good quiz-questions to contribute! As a thanks for the contribution you are allowed to answer to your own quiz-question :). Please drop us a message on #ahm-social, or send us an email (do not post the question on the slack-channel! :) )
+We enourage all that have good quiz-questions to contribute! As a thanks for the contribution you are allowed to answer your own quiz-question :). Please drop us a message on #ahm-social, or send us an email (do not post the question on the slack-channel! :) )
 
 Type of questions:
 * Multiple choice (2 minimum, 6 maximum)
