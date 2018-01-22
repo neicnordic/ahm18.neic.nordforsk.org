@@ -8,7 +8,7 @@ include: default
 [Thon Hotel
 Skeikampen](http://www.thonhotels.com/hotels/countrys/norway/skeikampen/thon-hotel-skeikampen/)
 is located 150 km from Oslo airport and reachable by public transportation
-([Skeikampen destination](http://www.skeikampen.no/en).  Bring your favourite
+([Skeikampen destination](http://www.skeikampen.no/en)).  Bring your favourite
 swimming trunks or ski equipment for use of amenities out of scheduled hours.
 
 ### Transport and accommodation
