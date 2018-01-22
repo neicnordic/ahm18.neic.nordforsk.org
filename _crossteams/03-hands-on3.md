@@ -5,10 +5,7 @@ details: /crossteams/ho_details3/
 name: hands-on
 ---
 
-Glenna 2 will show how to use data.deic.dk cloud service to deploy a data intensive scientific workflow. 
+The goal of this session is to present recent developments in provision and consumption of cloud services in Nordic countries. Examples will be presented from the NeIC projects [Glenna2](https://wiki.neic.no/wiki/Glenna2) and [DeepDive](https://wiki.neic.no/wiki/Biodiversity). The session will include an introduction to cloud-based research infrastructure, presentation of examples and live demonstrations of cloud services, followed by a discussion of potential collaborations across NeIC projects.
 
-DeepDive project has adopted a different approach using Amazon services and Taverna workflows (compatible with Kepler, Galaxy and R-based workflows).
-
-And you? Have you ever used cloud services and deployed scientific workflows? 
 
 
