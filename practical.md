@@ -72,3 +72,10 @@ will not arrange any travel or accommodation for that.
 ahm for practical and general information
 
 ahm-social for more informal sharing, e.g photographs and such.
+
+
+### Google shared folder for speed-blogging/flash-talks/photographs ++
+Put your stuff in [this Google folder](https://drive.google.com/drive/folders/1Jl02bAjxRoW2hWvpyE17TkiRqWG1IghK?usp=sharing). <br>
+Whether it is slides for flash-talks, outcome of speed-blogging, photographs or other things you want to share. <br>
+
+Thanks!
