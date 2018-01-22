@@ -13,18 +13,21 @@
       <li>Hands-on: show your skills and how you solved a particular problem in your project</li>
       <li>Discuss and share: discuss about future prospectives on a chosen topic, write a blog, and present the main outcomes in a 2-3 minutes oral presentation during the wrap-up session on Wednesday.</li>
     </ul>
-You will choose which hands-on and speed-blogging session to join at the venue before the sessions start on Tuesday afternoon.
+You will choose which hands-on and speed-blogging session by registering here: <a href="https://skjema.uio.no/93187">(hands-on)</a> and here: <a href="https://skjema.uio.no/93188">(speed-blogging)</a> before dinner on Monday 29.01. 
+
     </div>
 </div>
 <div class="row">
     <div class="col-lg-12">
 	<h3>Flash talk for project overview</h3>
+Tuesday, January 30, 15:00-15:45 <br><br>
 
-    In the first part, we wish each project manager to make a very short oral presentation to explain what their project is about and why it is important to get NeIC support.
-    <br>
-    Each project will have no more than 2-3 minutes to present their work in an engaging and accessible way;
-    These flash talks are aimed to be understood by non-specialist audiences but you should try to highlight the challenges met in your project and why collaboration within Nordic countries facilitates searching and finding appropriate solutions for these problems.
-    <br>
+    Each project manager will make a very short oral presentation to explain what their project is about and why it is important to get NeIC support.
+    <br><br>
+
+The talks are a maximum duration of 3 minutes with the aim to present their work in an engaging and accessible way.
+    These flash talks are aimed to be understood by non-specialist audiences but should at the same time try to highlight the challenges met in the project and why collaboration within Nordic countries facilitates searching and finding appropriate solutions for these problems.
+    <br><br>
     Some information on how to give a flash talk can be found <a href="https://www.software.ac.uk/home/cw11/giving-good-lightning-talk">here</a>.
 	</div>
 </div>
@@ -40,77 +43,53 @@ You will choose which hands-on and speed-blogging session to join at the venue b
 		<br>
 		We all successfully met a technological or methodological challenge in our project and this session is about sharing our success and knowledge with other NeIC projects.
 		<br>
-        Each project has been asked to submit at least one topic for a short hand-on/demo/show me your tools session. All projects have responded and thanks to their feedback and internal discussions we have converged to the following topics:
+The following four topics have been chosen after feedback from the projects:
         <p>
-				<ol>
+
+                <ol>
                     {% for crossteam in site.crossteams %}
-                    <!-- hack to not print the subpages here -->
-		    {% if crossteam.name == "details" %}
-		    {% elsif crossteam.name == "speed-blogging" %}
-		    {% else %}
+ 		    {% if crossteam.name == "hands-on" %}
                         {% assign crossteam_index = forloop.index %}
 					  {% if crossteam.details%}
-					  <li>{{ crossteam.organizers }}: <a href="{{ site.baseurl }}/{{ crossteam.details }}"><b>{{crossteam.title}}</b></a></li>
+					  <li><a href="{{ site.baseurl }}/{{ crossteam.details }}"><b>{{crossteam.title}}</b></a></li>
 					  {% endif %}
-					<ul>
-                                   <li>     {{ crossteam.content | markdownify }}</li>
-					</ul>
 			{% endif %}
                     {% endfor %}
-				</ol>
+		</ul>
+                </ol>
+
 		</p>
     </div>
+
+
+Please choose on of these topics by registering here: <a href="https://skjema.uio.no/93187">https://skjema.uio.no/93187</a> before dinner on Monday 29.01.
 </div>
 
 <div class="row">
     <div class="col-lg-12">
 	<h3>Speed blogging - discuss and share</h3>
-	
-     During this session we are going to discuss and write blogs. You will be at most 5 people per topic, so if many more than 5 people are interested in one topic, they will split into several groups. <br>
-      <br>
+	Tuesday, January 30, 17:30-19:00<br><br>
+While we discussed and shared our success stories in the previous session, here we will discuss future perspectives.<br>
 
-      We will be using Google Docs to write blogs. Please create your document in <b><a href="https://drive.google.com/drive/folders/1vQuIX2aa27h-GrPHY7MGIW1pQBDV7Kef">this shared Google-drive folder</a></b>
-      <br>
-     While we discussed and shared our sucess stories in the previous session, here we will discuss future perspectives on:
-	 <p>
+     During this session we are going to discuss and write blogs in small groups. Each group will be self-organized. <br><br>
 
-                <ol>
-                    {% for crossteam in site.crossteams %}
-                    <!-- hack to not print the subpages here -->
-		    {% if crossteam.name == "details" %}
-		    {% elsif crossteam.name == "hands-on" %}
-		    {% else %}
-                        {% assign crossteam_index = forloop.index %}
-					  {% if crossteam.details%}
-					  <li><a href="{{ site.baseurl }}/{{ crossteam.details }}"><b>{{crossteam.title}}</b></a></li>
-					  {% endif %}
-				                <ul>
-                                      <li>  {{ crossteam.content | markdownify }} </li>
-                                </ul>
-			{% endif %}
-                    {% endfor %}
-					</ul>
-                </ol>
+The topics we have suggested are: 
+	 
+<p>
+<ol>
+<li>How do you create a NeIC identity?</li>
+<li>How do we best organize documentation? What is the best tool, strategy (inwards & outwards, googleTeam? vendor Lock-In trap)?</li>
+<li>How can we bootstrap and manage projects in a light way?</li>
+<li>How do we build a Nordic-wide community of scientific software developers, application experts and other e-science experts?</li>
+<li>What are the next step to deploy a local European Genome Archive (EGA) development environment for the Nordic countries?</li>
+<li>Make a movie on the NeIC vision and strategic process!</li>
+<li>What does the future hold for data mining?</li>
+</ol>
 		
      </p>
-      The following guidance is given to help you for this session:
-	  <ul>
-        <li>Take about 1 hour to discuss about the topic chosen in your team.</li>
-        <li> Write a short blog on your findings during the rest of the session: choose one or two pictures and write a few paragraphs</li>
-        <li> Keep about 10 minutes before the end of the session to choose who will present your findings during the wrap-up session and prepare your 2-3 minutes presentation.</li>
-      </ul>
-      <br>
-      More information on speed blogging can be found <a href="https://www.software.ac.uk/term/speed-blogging">here</a>. And to get an idea of what has been achieved take
-      a look at the following <a href="https://www.software.ac.uk/tags/speed-blog-posts">Speed blog</a> posts:
-	  <ul>
-      <li> <a href="https://www.software.ac.uk/blog/2017-06-01-improving-diversity-research-software-projects-and-events">Improving diversity in research software projects and events</a>
-      <li> <a href="https://www.software.ac.uk/blog/2017-05-11-constructive-code-critique">Constructive code critique</a>
-      <li> <a href="https://www.software.ac.uk/blog/2017-05-24-making-data-open-resources-gaps-and-incentives">Making data open: resources, gaps and incentives</a>
-      <li> <a href="https://www.software.ac.uk/blog/2017-05-29-privacy-and-trust-issues-iot-and-open-data">Privacy and Trust issues in IoT and Open Data</a>
-      <li> <a href="https://www.software.ac.uk/blog/2017-05-11-decisions-decisions-decisions-things-be-aware-when-choosing-your-research-software">Decisions decisions decisions: Things to be aware of when choosing your research software stack</a>
-      <li> <a href="https://www.software.ac.uk/blog/2017-05-09-software-metrics-why-and-how">Software Metrics—why and how?</a>
-      </ul>
+You will find <a href="../speedblogging">details information about the speedblogging session here. </a><br><br>
 
+Please choose on of these topics by registering here: <a href="https://skjema.uio.no/93188">https://skjema.uio.no/93188</a> before dinner on Monday 29.01.<br><br>
 
     </div>
 </div>

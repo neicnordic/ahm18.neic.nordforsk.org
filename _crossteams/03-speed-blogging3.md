@@ -12,3 +12,4 @@ Are you interested in sharing your thoughts about Project management?
 
 Then it's your chance to participate to this speed-blogging! 
 
+
