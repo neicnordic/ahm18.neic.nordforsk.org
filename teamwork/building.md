@@ -1,6 +1,0 @@
----
-layout: master
-include: default
----
-
-
