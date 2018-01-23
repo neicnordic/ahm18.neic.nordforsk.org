@@ -9,12 +9,12 @@ name: details
 
 <h4>Goals</h4>
 
-The goal of this session is to present recent developments in provision and consumption of cloud services in Nordic countries. Examples will be presented from the NeIC projects Glenna2 (https://wiki.neic.no/wiki/Glenna2) and DeepDive (https://wiki.neic.no/wiki/Biodiversity). The session will include an introduction to cloud-based research infrastructure, presentation of examples and live demonstrations of cloud services, followed by a discussion of potential collaborations across NeIC projects.
+The goal of this session is to present recent developments in provision and consumption of cloud services in Nordic countries. Examples will be presented from the NeIC projects Glenna2 ([https://wiki.neic.no/wiki/Glenna2](https://wiki.neic.no/wiki/Glenna2)) and DeepDive ([https://wiki.neic.no/wiki/Biodiversity](https://wiki.neic.no/wiki/Biodiversity)). The session will include an introduction to cloud-based research infrastructure, presentation of examples and live demonstrations of cloud services, followed by a discussion of potential collaborations across NeIC projects.
 
 <h4>Practical information</h4>
 
 - Length of the session: 15:45-17:00
-- Requirements: If you’re interested to discuss how biodiversity services are federated on the cloud you can sign up on the following platforms prior to the meeting (www.biodiversitycatalogue.org/, https://portal.biovel.eu/)
+- Requirements: If you’re interested to discuss how biodiversity services are federated on the cloud you can sign up on the following platforms prior to the meeting ([www.biodiversitycatalogue.org/](http://www.biodiversitycatalogue.org), [https://portal.biovel.eu/](https://portal.biovel.eu))
 
 
 

@@ -3,6 +3,7 @@ organizers: Make your team (no more than 5 people)
 title: How can we bootstrap and manage projects in a light way?
 details: /crossteams/sb_details3/
 name: speed-blogging
+number: 3
 ---
 
 Project management is important, time consuming and can be seen as an overhead by team members. 
