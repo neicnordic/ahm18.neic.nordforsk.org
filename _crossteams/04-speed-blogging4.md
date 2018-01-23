@@ -3,6 +3,7 @@ organizers: Make your team (no more than 5 people)
 title: How do we build a Nordic-wide community of scientific software developers, application experts and other e-science experts? 
 details: /crossteams/sb_details4/
 name: speed-blogging
+number: 4
 ---
 
 

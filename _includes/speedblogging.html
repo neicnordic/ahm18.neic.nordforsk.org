@@ -8,19 +8,18 @@
 
       We will be using Google Docs to write blogs. Please create your document in <b><a href="https://drive.google.com/drive/folders/1vQuIX2aa27h-GrPHY7MGIW1pQBDV7Kef">this shared Google-drive folder</a></b><br>
 
-Please choose on of these topics by registering here: <a href="https://skjema.uio.no/93188">https://skjema.uio.no/93188</a> before dinner on Monday 29.01.<br><br>
+Please choose on of these topics by registering here: <a href="https://skjema.uio.no/93188"><b>https://skjema.uio.no/93188</b></a> before dinner on Monday 29.01.<br><br>
 
       <br>
      While we discussed and shared our sucess stories in the previous session, here we will discuss future perspectives on:
 	 <p>
-
-                <ol>
+<ol>
                     {% for crossteam in site.crossteams %}
 		    {% if crossteam.name == "speed-blogging" %}
                         {% assign crossteam_index = forloop.index %}
 					  {% if crossteam.details%}
-					  <!--<li><a href="{{ site.baseurl }}/{{ crossteam.details }}"><b>{{crossteam.title}}</b></a></li>-->
-					  <li><b>{{crossteam.title}}</b></li>
+					  <!--<li><a href="{{ site.<baseurl }}/{{ crossteam.details }}"><b>{{crossteam.title}}</b></a></li>-->
+		   <b><li> <span style="font-size: 115%">{{crossteam.title}}</span></li></b>
 					  {% endif %}
 				        <ul>
                                       <li>  {{ crossteam.content | markdownify }} </li>
@@ -29,6 +28,7 @@ Please choose on of these topics by registering here: <a href="https://skjema.ui
                     {% endfor %}
 					</ul>
                 </ol>
+</table>
 		
      </p>
 
@@ -37,11 +37,11 @@ Please choose on of these topics by registering here: <a href="https://skjema.ui
 	  <ul>
         <li>Take about 1 hour to discuss about the topic chosen in your team.</li>
         <li> Write a short blog on your findings during the rest of the session: choose one or two pictures and write a few paragraphs</li>
-        <li> Keep about 10 minutes before the end of the session to choose who will present your findings during the wrap-up session on Wednesday morning, and prepare a2-3 minutes presentation for this.</li>
+        <li> Keep about 10 minutes before the end of the session to choose who will present your findings during the wrap-up session on Wednesday morning, and prepare a 2-3 minutes presentation for this.</li>
       </ul>
       <br>
-      More information on speed blogging can be found <a href="https://www.software.ac.uk/term/speed-blogging">here</a>. And to get an idea of what has been achieved take
-      a look at the following <a href="https://www.software.ac.uk/tags/speed-blog-posts">Speed blog</a> posts:
+      More information on speed blogging can be found <a href="https://www.software.ac.uk/term/speed-blogging"><b>here</b></a>. And to get an idea of what has been achieved take
+      a look at the following <a href="https://www.software.ac.uk/tags/speed-blog-posts"><b>Speed blog</b></a> posts:
 	  <ul>
       <li> <a href="https://www.software.ac.uk/blog/2017-06-01-improving-diversity-research-software-projects-and-events">Improving diversity in research software projects and events</a>
       <li> <a href="https://www.software.ac.uk/blog/2017-05-11-constructive-code-critique">Constructive code critique</a>
