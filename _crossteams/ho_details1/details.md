@@ -6,6 +6,7 @@ name: details
 ---
 
 <h3>Services for sharing and exploring large datasets</h3>
+Organized by Vincent Garonne and Chandan Basu <b>[contact](mailto:vgaronne@gmail.com)</b>
 
 <h4>Goals</h4>
 
@@ -17,7 +18,7 @@ For example, the NT1 project (LHC experiments) will share its experience in mana
 <h4>Practical information</h4>
 
 - Length of the session: 15:45-17:00
-- Requirements: Give your inputs by completing [this survey](https://qtrial2018q1az1.az1.qualtrics.com/jfe/form/SV_54sPm0hgS5nTfZb)
+- Requirements: Give your inputs by completing <b>[this survey](https://qtrial2018q1az1.az1.qualtrics.com/jfe/form/SV_54sPm0hgS5nTfZb)</b>
 
 
 <h4>Learning outcomes</h4>
@@ -30,10 +31,10 @@ For example, the NT1 project (LHC experiments) will share its experience in mana
 
 This section attempts to provide some definition related to data management. It is common to breaks down data management workflows into four broad categories:
 
-**Archival**: Moving non-reproducible data from an instrument (such as a detector) to a long-term storage (archival) site.  Once the data is at the archive, we assume it can be recalled within 48 hours.
-**Replica-based**: Management of storage where the data (contents and lifetime) is managed by the experiment.  File replicas must be explicitly created - possibly with a max lifetime - and are expected to be accessible from that storage until the file expires or is explicitly deleted.
-**Cache-based**: Data located at a storage service whose lifetime is decided by the storage service itself.  Caches may be populated on first-use or via a prefetch mechanism.
-**Compute-Workflow-based**: Data is moved to/from the job sandbox as part of the compute workflow. 
+**Archival**: Moving non-reproducible data from an instrument (such as a detector) to a long-term storage (archival) site.  Once the data is at the archive, we assume it can be recalled within 48 hours.<br>
+**Replica-based**: Management of storage where the data (contents and lifetime) is managed by the experiment.  File replicas must be explicitly created - possibly with a max lifetime - and are expected to be accessible from that storage until the file expires or is explicitly deleted.<br>
+**Cache-based**: Data located at a storage service whose lifetime is decided by the storage service itself.  Caches may be populated on first-use or via a prefetch mechanism.<br>
+**Compute-Workflow-based**: Data is moved to/from the job sandbox as part of the compute workflow. <br>
 The replica-, cache-, and compute-workflow-based workflows support data delivery to batch jobs, while archival does not.
 Workflow management system (WfMS): allow the user to define different workflows for different types of jobs or processes.
 

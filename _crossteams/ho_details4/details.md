@@ -6,6 +6,8 @@ name: details
 ---
 
 <h3> How to best organize communication within and outside our project</h3>
+Organized by <b>[Anne Fouilloux](mailto:annefou@geo.uio.no)</b> and <b>[Maiken Pedersen](mailto:maiken.pedersen@usit.uio.no)</b>.<br><br>
+
 
 All NeIC projects need to organize both their internal and external communication. Most of us use tools such as slack, Zendesk, Github or/and Google drive both to organize communication within and outside the project and disseminate the results of our project.
 
