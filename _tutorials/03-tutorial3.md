@@ -1,7 +1,7 @@
 ---
 organizers: Radovan Bast
 title: A non-technical introduction to Git and GitHub
-details: /tutorials/details3/
+details: https://coderefinery.github.io/git-in-the-browser/
 ---
 
 In this tutorial we will start out with a super brief introduction to Git and
