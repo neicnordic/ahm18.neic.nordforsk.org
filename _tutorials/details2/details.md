@@ -10,4 +10,4 @@ Download the tutorial notebook by `git clone https://github.com/coderefinery/ahm
 [this page on GitHub](https://github.com/coderefinery/ahm18-nlp-slack), press the green "Clone or download" button
 and select "Download ZIP".
 
-Please download also the dataset that will be analyzed (the Slack logs) from [][this Google Drive linkhttps://drive.google.com/open?id=1BVioZ9t15c1Ek7Xq067stN0ED28eXOsJ].
+Please download also the dataset that will be analyzed (the Slack logs) from [this Google Drive link](https://drive.google.com/open?id=1BVioZ9t15c1Ek7Xq067stN0ED28eXOsJ).
