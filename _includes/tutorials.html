@@ -7,30 +7,33 @@
                 <tbody>
                     {% for tutorial in site.tutorials %}
                     <!-- hack to not print the subpages here -->
-		    {% if tutorial.name == "details" %}
-		    {% else %}
+                    {% if tutorial.name == "details" %}
+                    {% else %}
                         {% assign tutorial_index = forloop.index %}
                         <tr id="highlight-{{ tutorial_index }}" class="{[ get_class('none', '{{ tutorial_index }}') ]}">
                             <td>
                                 <br>
-				<div class="hover_area">
+                                <div class="hover_area">
                                     <a class="anchor" id="{{ tutorial_index }}"></a>
                                     <div class="hover_area">
-					  {% if tutorial.details%}
-					  <h3 style="display: inline;">{{ tutorial.organizers }}: <a href="{{ site.baseurl }}/{{ tutorial.details }}">{{tutorial.title}}</a></h3>
-
-					  {% else %}
-					  <h3 style="display: inline;">{{ tutorial.organizers }}: {{ tutorial.title }}</h3>
-					  {% endif %}
+                                          {% if tutorial.details %}
+                                            {% if tutorial.details contains 'http' %}
+                                              <h3 style="display: inline;">{{ tutorial.organizers }}: <a href="{{ tutorial.details }}" target="_blank">{{ tutorial.title }}</a></h3>
+                                            {% else %}
+                                              <h3 style="display: inline;">{{ tutorial.organizers }}: <a href="{{ site.baseurl }}/{{ tutorial.details }}">{{ tutorial.title }}</a></h3>
+                                            {% endif %}
+                                          {% else %}
+                                            <h3 style="display: inline;">{{ tutorial.organizers }}: {{ tutorial.title }}</h3>
+                                          {% endif %}
                                         </div>
-				    <p>
+                                    <p>
                                         {{ tutorial.content | markdownify }}
                                     </p>
                                 </div>
-				
+                                
                             </td>
                         </tr>
-			{% endif %}
+                        {% endif %}
                     {% endfor %}
                 </tbody>
             </table>
