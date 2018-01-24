@@ -16,11 +16,10 @@
 				<div class="hover_area">
                                     <a class="anchor" id="{{ tutorial_index }}"></a>
                                     <div class="hover_area">
-					  {% if tutorial.details%}
-					  <h3 style="display: inline;">{{ tutorial.organizers }}: <a href="{{ site.baseurl }}/{{ tutorial.details }}">{{tutorial.title}}</a></h3>
-
+					  {% if tutorial.details %}
+					    <h3 style="display: inline;">{{ tutorial.organizers }}: <a href="{{ site.baseurl }}/{{ tutorial.details }}">{{ tutorial.title }}</a></h3>
 					  {% else %}
-					  <h3 style="display: inline;">{{ tutorial.organizers }}: {{ tutorial.title }}</h3>
+					    <h3 style="display: inline;">{{ tutorial.organizers }}: {{ tutorial.title }}</h3>
 					  {% endif %}
                                         </div>
 				    <p>
