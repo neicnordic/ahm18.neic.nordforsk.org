@@ -78,4 +78,12 @@ ahm-social for more informal sharing, e.g photographs and such.
 Put your stuff in [this Google folder](https://drive.google.com/drive/folders/1Jl02bAjxRoW2hWvpyE17TkiRqWG1IghK?usp=sharing). <br>
 Whether it is slides for flash-talks, outcome of speed-blogging, photographs or other things you want to share. <br>
 
+
+### Ski school
+There is no ski school arranged by NeIC. However, as last year: you can certainly book a ski instructor yourself (or in a group): <br>
+[http://www.skeikampen.no/en/alpine-xc-skiing/ski-school](http://www.skeikampen.no/en/alpine-xc-skiing/ski-school)<br><br>
+
+There might also be ad-hoc ski-groups for people to join too. We will try to facilitate this once at the AHM. 
+
+
 Thanks!
