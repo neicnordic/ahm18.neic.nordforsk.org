@@ -17,7 +17,8 @@ We will put together teams mixing projects as much as possible. Which team you a
 
 
 ### Contributing
-We enourage all that have good quiz-questions to contribute! As a thanks for the contribution you are allowed to answer your own quiz-question :). Please drop us a message on #ahm-social, or send us an email (do not post the question on the slack-channel! :) )
+We enourage all that have good quiz-questions to contribute! As a thanks for the contribution you are allowed to answer your own quiz-question :). <br>
+Tell us on #ahm-social that you have a question, then we contact you to keep it all secret (do not post the question on the slack-channel! :) ) ! 
 
 Type of questions:
 * Multiple choice (2 minimum, 6 maximum)
