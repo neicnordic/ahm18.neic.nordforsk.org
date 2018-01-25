@@ -68,6 +68,18 @@ family during the meeting. If you want to explore the location with your family
 you’re welcome to do so, but preferably before or after the AHM. NeIC, however,
 will not arrange any travel or accommodation for that.
 
+
+### Skiing
+There is no ski school arranged by NeIC. However, as last year: you can certainly book a ski instructor yourself (or in a group): <br>
+[http://www.skeikampen.no/en/alpine-xc-skiing/ski-school](http://www.skeikampen.no/en/alpine-xc-skiing/ski-school)<br>
+
+There might also be ad-hoc ski-groups for people to join too. We will try to facilitate this once at the AHM. <br><br>
+
+One can rent skis at Skeikampen, and that can be done once you are there. There should be no need to pre-order, although you are of course free to reserve skis if you want!
+One can use this place: [http://www.skeikampen.no/en/alpine-xc-skiing/ski-rental/492-skeikampen-ski-rental](http://www.skeikampen.no/en/alpine-xc-skiing/ski-rental/492-skeikampen-ski-rental) or another slightly hidden ski-rental place in the woods, which has very good prices. We will help you find it!
+
+
+
 ### NeIC Slack channels for the all-hands meeting
 ahm for practical and general information
 
@@ -79,11 +91,6 @@ Put your stuff in [this Google folder](https://drive.google.com/drive/folders/1J
 Whether it is slides for flash-talks, outcome of speed-blogging, photographs or other things you want to share. <br>
 
 
-### Ski school
-There is no ski school arranged by NeIC. However, as last year: you can certainly book a ski instructor yourself (or in a group): <br>
-[http://www.skeikampen.no/en/alpine-xc-skiing/ski-school](http://www.skeikampen.no/en/alpine-xc-skiing/ski-school)<br><br>
-
-There might also be ad-hoc ski-groups for people to join too. We will try to facilitate this once at the AHM. 
 
 
 Thanks!
