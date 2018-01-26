@@ -48,7 +48,7 @@ schedule:
           chair:
         - time: 19:00 - 20:00
           type: recreation
-          title: Break
+          title: Break - sauna is open!
         - time: 20:00 - 21:30
           type: recreation
           title: Dinner
@@ -81,7 +81,7 @@ schedule:
           chair: 
         - time: 19:00 - 20:00
           type: recreation
-          title: Break
+          title: Break - sauna is open!
         - time: 20:00 - 21:30
           type: recreation
           title: Dinner
