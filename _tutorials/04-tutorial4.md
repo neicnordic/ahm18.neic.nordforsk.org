@@ -2,6 +2,7 @@
 organizers: Anne-Marie Bach
 title: Is NeIC a modern family? How to respect cultural differences and aiming for same goals, at the same time acting as a leading eScience organization 
 details: /tutorials/details4/
+room: Thor2
 ---
 
 - Relationships are powerful. How do we create trust among colleagues and empower others for the purpose of shared leadership?

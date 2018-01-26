@@ -2,7 +2,9 @@
 organizers: Bjørn Lindi and Thor Wikfeldt
 title: Natural language processing of NeIC Slack logs in a Jupyter notebook
 details: /tutorials/details2/
+room: Skeikampen
 ---
+
 
 Have you ever wondered what words and phrases are used the most across all NeIC Slack channels? Or are you curious to know at which time of the day the average NeIC team member in Norway posts his/her first message to #random? Or how that compares to other Nordic countries, and whether it's correlated with average coffee consumption in these countries?
 If so, join this interactive, hands-on tutorial filled with data analysis, natural language processing and pretty visualizations. All work 
