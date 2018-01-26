@@ -2,7 +2,9 @@
 organizers: Radovan Bast
 title: A non-technical introduction to Git and GitHub
 details: https://coderefinery.github.io/git-in-the-browser/
+room: Prestkampen
 ---
+
 
 In this tutorial we will start out with a super brief introduction to Git and
 GitHub and exercise useful workflows within GitHub. As an example, we will

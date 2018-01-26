@@ -19,11 +19,14 @@
                                           {% if tutorial.details %}
                                             {% if tutorial.details contains 'http' %}
                                               <h3 style="display: inline;">{{ tutorial.organizers }}: <a href="{{ tutorial.details }}" target="_blank">{{ tutorial.title }}</a></h3>
+					      <br>Room: {{ tutorial.room }}<br><br>
                                             {% else %}
                                               <h3 style="display: inline;">{{ tutorial.organizers }}: <a href="{{ site.baseurl }}/{{ tutorial.details }}">{{ tutorial.title }}</a></h3>
+					      <br>Room: {{ tutorial.room }}<br><br>
                                             {% endif %}
                                           {% else %}
                                             <h3 style="display: inline;">{{ tutorial.organizers }}: {{ tutorial.title }}</h3>
+					      <br>Room: {{ tutorial.room }}<br><br>
                                           {% endif %}
                                         </div>
                                     <p>
