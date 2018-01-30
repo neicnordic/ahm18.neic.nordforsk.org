@@ -1,6 +1,7 @@
-# NEIC 2018 Skeikampen SongBook 
+# NEIC 2018 Skeikampen Song Book 
 1. [Hell and gore](#hell)
 2. [Dellingr Project Flash Talk Song](#dellingr)
+3. [What shall we do with the resource sharing?](#resoruce)
 
 ## Hell and gore <a name="hell"></a>
 Melody: Helan går
@@ -33,3 +34,30 @@ Final result<br/>
 will be an equitable and fair process<br/>
 for sharing and exchanging access<br/>
 to resources across the Nordics.
+
+
+## What shall we do with the resource sharing
+
+
+What shall we do with the resource sharing? 
+What shall we do with the resource sharing? 
+What shall we do with the resource sharing? 
+and what about the VAT
+early in the morning? 
+
+Hooray and up she rises. 
+Hooray and up she rises. 
+Hooray and up she rises. 
+early in the morning 
+
+Put him in the longboat til he s sober... 
+
+Pull out the plug and wet him all over... 
+
+Put him in the scuppers with a hose-pipe on him... 
+
+Heave him by the leg in a running bowline.. 
+
+Shave his head with a rusty razor... 
+
+Put him in the bed with the captains daughter...
