@@ -6,7 +6,8 @@ name: details
 ---
 
 <h3> How to set up the very best event</h3>
-Organized by Anne-Marie Bach <b>[contact](mailto:<ambach@au.dk>)</b>
+Organized by Anne-Marie Bach <b>[contact](mailto:<ambach@au.dk>)</b><br>
+Room: Prestkampen<br>
 
 <h4>Goals</h4>
 
