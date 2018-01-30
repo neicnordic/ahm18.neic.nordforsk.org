@@ -15,7 +15,8 @@ Hell and gore, Chung hop father Allan ley<br />
 SKÅL!
 
 ## Dellingr Project Flash Talk Song <a name="dellingr"></a>
-Melody: My Bonnie
+Melody: My Bonnie<br/>
+Text: John White<br/>
 
 Dellingr proposes a Nordic,<br/>
 HPC resource sharing framework.<br/>
@@ -36,19 +37,18 @@ for sharing and exchanging access<br/>
 to resources across the Nordics.
 
 
-## What shall we do with the resource sharing
+## What shall we do with the resource sharing<a name="resource"></a>
 
+What shall we do with the resource sharing? <br/>
+What shall we do with the resource sharing? <br/>
+What shall we do with the resource sharing? <br/>
+in between the nordics<br/>
 
-What shall we do with the resource sharing? 
-What shall we do with the resource sharing? 
-What shall we do with the resource sharing? 
-and what about the VAT
-early in the morning? 
+And what about the VAT<br/>
+And what about the VAT<br/>
+And what about the VAT<br/>
+in between the nordics<br/>
 
-Hooray and up she rises. 
-Hooray and up she rises. 
-Hooray and up she rises. 
-early in the morning 
 
 Put him in the longboat til he s sober... 
 
