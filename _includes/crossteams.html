@@ -53,7 +53,7 @@ The following four topics have been chosen after feedback from the projects:
  		    {% if crossteam.name == "hands-on" %}
                         {% assign crossteam_index = forloop.index %}
 					  {% if crossteam.details%}
-					  <li><a href="{{ site.baseurl }}/{{ crossteam.details }}"><b>{{crossteam.title}}</b></a> Organized by: {{crossteam.organizers}}</li>
+					  <li><a href="{{ site.baseurl }}/{{ crossteam.details }}"><b>{{crossteam.title}}</b></a> Organized by: {{crossteam.organizers}}. Room: {{crossteam.room}}</li>
 					  {% endif %}
 			{% endif %}
                     {% endfor %}
