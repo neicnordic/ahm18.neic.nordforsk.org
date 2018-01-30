@@ -6,7 +6,8 @@ name: details
 ---
 
 <h3> Deploying your scientific workflow in the cloud</h3>
-Organized by: <b>[Dan Still](mailto:Dan.Still@csc.fi)</b> and <b>[Matthias Obst](mailto:matthias.obst@marine.gu.se)</b>
+Organized by: <b>[Dan Still](mailto:Dan.Still@csc.fi)</b> and <b>[Matthias Obst](mailto:matthias.obst@marine.gu.se)</b><br>
+Room: Olav1<br>
 
 
 <h4>Goals</h4>

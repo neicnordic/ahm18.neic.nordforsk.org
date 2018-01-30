@@ -6,7 +6,8 @@ name: details
 ---
 
 <h3>Services for sharing and exploring large datasets</h3>
-Organized by Vincent Garonne and Chandan Basu <b>[contact](mailto:vgaronne@gmail.com)</b>
+Organized by Vincent Garonne and Chandan Basu <b>[contact](mailto:vgaronne@gmail.com)</b><br>
+Room: Olav2<br>
 
 <h4>Goals</h4>
 
