@@ -19,19 +19,22 @@ SKÅL!
 Melody: My Bonnie<br/>
 Text: John White<br/>
 
-Dellingr proposes a Nordic,<br/>
-HPC resource sharing framework.<br/>
-A set of e-infrastructure policies,<br/>
-common processes and associated framework.<br/>
+Dellingr proposes a Nordic, <br/>
+HPC resource sharing framework. <br/>
+A set of e-infrastructure policies, <br/>
+(c)ommon proc-es-ses (and) ass-ocia-ted framework.<br/>
+
 Fe-de-rated A-A-A,<br/>
 harmonizing procedures <br/>
 in compliance with national rules. (and regulations.)<br/>
 Sharing of application expertise<br/>
+
 for advanced user support.<br/>
 Not intended, to change <br/>
 the processes by which the national, providers manage<br/>
 allocate or otherwise support<br/>
 the national research priorities.<br/>
+
 Final result<br/>
 will be an equitable and fair process<br/>
 for sharing and exchanging access<br/>
