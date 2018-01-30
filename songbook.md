@@ -49,15 +49,14 @@ And what about the VAT<br/>
 And what about the VAT<br/>
 in between the nordics<br/>
 
+What shall we do with the GDPR? ... <br/>
+and the etics consents.<br/>
 
-Put him in the longboat til he s sober... 
+Put it on a paper and throw away it ... <br/>
+in the big round archive <br/>
 
-Pull out the plug and wet him all over... 
+What shall we do with the research data ... <br/>
+in between the nordics<br/>
 
-Put him in the scuppers with a hose-pipe on him... 
-
-Heave him by the leg in a running bowline.. 
-
-Shave his head with a rusty razor... 
-
-Put him in the bed with the captains daughter...
+What shall we do with the threaded channel?...<br/> 
+in the bloody slack team 
