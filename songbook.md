@@ -2,6 +2,7 @@
 1. [Hell and gore](#hell)
 2. [Dellingr Project Flash Talk Song](#dellingr)
 3. [What shall we do with the resource sharing?](#resoruce)
+4. [DEGDEG](#mountain)
 
 ## Hell and gore <a name="hell"></a>
 Melody: Helan går
@@ -61,7 +62,7 @@ in between the nordics<br/>
 What shall we do with the threaded channel?...<br/> 
 in the bloody slack team 
 
-## 
+## <a name="mountain"></a>
 Melody: Coming 'Round the Mountain
 
 She'll be coming round the mountain when she comes
