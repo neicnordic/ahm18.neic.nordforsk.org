@@ -3,6 +3,7 @@
 2. [Dellingr Project Flash Talk Song](#dellingr)
 3. [What shall we do with the resource sharing?](#resoruce)
 4. [DEGDEG](#mountain)
+5. [The NEIC HYMN](#neic)
 
 ## Hell and gore <a name="hell"></a>
 Melody: Helan går
@@ -56,11 +57,11 @@ in between the nordics<br/>
 What shall we do with the GDPR? ... <br/>
 and the etics consents.<br/>
 
-Put it on a paper and throw away it ... <br/>
-in the big round archive <br/>
-
 What shall we do with the research data ... <br/>
 in between the nordics<br/>
+
+Put it on a paper and throw away it ... <br/>
+in the big round archive <br/>
 
 What shall we do with the threaded channel?...<br/> 
 in the bloody slack team 
@@ -74,3 +75,52 @@ She'll be coming round the mountain when she comes
 She'll be coming round the mountain
 She'll be coming round the mountain
 She'll be coming round the mountain when she comes
+
+
+# The NEIC HYMN <a name="neic"></a>
+Melody: We shall overcome
+
+NEIC is the best,
+NEIC is magnificient 
+NEIC is enjoyable
+NEIC is the best, every day
+
+Oh, Gudmund is Superb
+We rellay feel 
+NEIC is the Best
+
+NEIC is brilliant
+NEIC is a amazing
+NEICers are cool
+NEIC is excellent
+
+Oh, Gudmund is Superb
+We rellay feel 
+NEIC is the Best
+
+NEIC is fabulous
+NEIC is fantastic
+NEIC is incredible
+NEIC is marvelous
+
+Oh, Gudmund is Superb
+We rellay feel 
+NEIC is the Best
+
+NEIC is outstanding
+NEIC is phenomenal
+NEIC is pleasing
+NEIC is remarkable 
+
+Oh, Gudmund is Superb
+We rellay feel 
+NEIC is the Best
+
+NEIC is super-duper
+NEIC is attractive
+NEIC is best ever
+NEIC is wonderful
+
+Oh, Gudmund is Superb
+We rellay feel 
+NEIC is the Best
