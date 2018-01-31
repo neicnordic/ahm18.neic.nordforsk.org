@@ -1,6 +1,8 @@
 main:
   - url: '/'
     text: 'Home'
+  - url: '/songbook/'
+    text: 'Song book'
   - url: '/schedule/'
     text: 'Schedule'
   - url: '/crossteam/'
