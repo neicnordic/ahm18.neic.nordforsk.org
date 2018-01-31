@@ -6,6 +6,9 @@ include: default
 ### Time and place
 Wednesday 17:00-19:00 in the hotel pub area downstairs. The pub will be open, so if you want you can buy softdrinks or any other drink you prefer, in addition to snacks. 
 
+### Connection
+One of your team members needs to download the speed quiz virtual buzzer app. Then connect to the special Wifi with the SSID "NEIC-Speedquizz" password is "weAreAllWinners". Select a team name within your team and connect to the server. Please just use one phone during the game and please do not use any kind of cheating. 
+
 ### Overall Goals
 The overall goal of this teambuilding session is to have fun and link up with others. Where "others" preferrably are people you don't usually work with. 
 
