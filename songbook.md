@@ -133,10 +133,10 @@ Open, open, open, source<br/>
 Open, open, open, stack <br/> 
 Open, open, open, shift<br/> 
 Open, open, open,      <br/> 
-Open, open, Open, Source<br/> 
+Open, open, open, source<br/> 
 Not the same as free software <br/> 
 
-Atlesat that's what Stallman says <br/>
+At least that's what Stallman says <br/>
 That's the guy with the gnu<br/>
 It say so on the internet<br/>
 So it has to be the truth. <br/>
