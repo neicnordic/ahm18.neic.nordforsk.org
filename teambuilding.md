@@ -18,6 +18,16 @@ Each team will have to use one smartphone for joining the quiz. Download the app
 
 We will put together teams mixing projects as much as possible. Which team you are inn will be announced closer to the day. 
 
+| 1               | 2               | 3                     | 4                        | 5              | 6                 | 7                     | 8               | 9               | 10                 | 11             | 12                | 13              |
+|-----------------|-----------------|-----------------------|--------------------------|----------------|-------------------|-----------------------|-----------------|-----------------|--------------------|----------------|-------------------|-----------------|
+| Jaakko Leinonen | Erland Hochheim | Tomasz Malkiewicz     | Johanna Kaunisvaara      | Joel Hedlund   | Ali Syed          | Peter Loengreen       | Johan Viklund   | Maja Nordhild   | Antti Pursula      | Dmytro Titov   | Jacob Brandrup    | Rafal Wolanin   |
+| Pontus Freyhult | Niclas Jareborg | Nanjiang Shu          | Abdulrahman Azab Mohamed | Juha Törnroos  | Tommi Jalkanen    | Chris Thomas          | Xiaxi Li        | Milen Kouylekov | Lene Krøl Andersen | Erik Edelmann  | Risto Laurikainen | Matthias Obst   |
+| Thor Wikfeldt   | Radovan Bast    | Sri Harsha Vathsavayi | Marianne Strøm           | Bjørn Lindi    | Anders Sjöström   | Máni Maríus Viðarsson | Juha Fagerholm  | Ilja Livenson   | Anna Ármannsdóttir | John White     | Ivar Koppel       | Romain Wartel   |
+| Dan Still       | Matteo Carone   | Gurvinder Singh       | Pavlin Mitev             | Olli Tourunen  | Kalle Happonen    | Ingemar Fällman       | Lars Viklund    | Salman Toor     | Apurva Nandan      | Aleksi Kallio  | Kasper Sort       | Anne Fouilloux  |
+| Stephan Oepen   | Oxana Smirnova  | Gudmund Høst          | Christian Søttrup        | Ulf Tigerstedt | Petter A. Urkedal | Mattias Wadenstein    | Dmytro Karpenko | Vincent Garonne | Jens Larsson       | Rob Pennington | Michaela Barth    | Anne-Marie Bach |
+|                 | Kine Nordstokkå |                       |                          |                |                   |                       |                 |                 |                    |                |                   |                 |
+
+
 
 ### Contributing
 We enourage all that have good quiz-questions to contribute! As a thanks for the contribution you are allowed to answer your own quiz-question :). <br>
