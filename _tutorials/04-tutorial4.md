@@ -5,6 +5,11 @@ details: /tutorials/details4/
 room: Olav2
 ---
 
+Requirements: 
+
+- Bring your mobile phone or tablet
+
+
 - Relationships are powerful. How do we create trust among colleagues and empower others for the purpose of shared leadership?
 
 Our one-to-one connections with each other are the foundation for change. And building relationships with people from different cultures, *often many different cultures*, is key in building diverse communities that are powerful enough to achieve significant goals.

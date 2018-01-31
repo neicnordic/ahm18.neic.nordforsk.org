@@ -6,6 +6,9 @@ include: default
 ### Time and place
 Wednesday 17:00-19:00 in the hotel pub area downstairs. The pub will be open, so if you want you can buy softdrinks or any other drink you prefer, in addition to snacks. 
 
+### Connection
+One of your team members needs to download the speed quiz virtual buzzer app. Then connect to the special Wifi with the SSID "NEIC-Speedquizz" password is "weAreAllWinners". Select a team name within your team and connect to the server. Please just use one phone during the game and please do not use any kind of cheating. 
+
 ### Overall Goals
 The overall goal of this teambuilding session is to have fun and link up with others. Where "others" preferrably are people you don't usually work with. 
 
@@ -14,6 +17,16 @@ Quiz tournament using "Speedquizzing", see videos of the format here: [http://ww
 Each team will have to use one smartphone for joining the quiz. Download the app from you app-store to prepare. Search for "speedquizzing". <br>
 
 We will put together teams mixing projects as much as possible. Which team you are inn will be announced closer to the day. 
+
+| 1               | 2               | 3                     | 4                        | 5              | 6                 | 7                     | 8               | 9               | 10                 | 11             | 12                | 13              |
+|-----------------|-----------------|-----------------------|--------------------------|----------------|-------------------|-----------------------|-----------------|-----------------|--------------------|----------------|-------------------|-----------------|
+| Jaakko Leinonen | Erland Hochheim | Tomasz Malkiewicz     | Johanna Kaunisvaara      | Joel Hedlund   | Ali Syed          | Peter Loengreen       | Johan Viklund   | Maja Nordhild   | Antti Pursula      | Dmytro Titov   | Jacob Brandrup    | Rafal Wolanin   |
+| Pontus Freyhult | Niclas Jareborg | Nanjiang Shu          | Abdulrahman Azab Mohamed | Juha Törnroos  | Tommi Jalkanen    | Chris Thomas          | Xiaxi Li        | Milen Kouylekov | Lene Krøl Andersen | Erik Edelmann  | Risto Laurikainen | Matthias Obst   |
+| Thor Wikfeldt   | Radovan Bast    | Sri Harsha Vathsavayi | Marianne Strøm           | Bjørn Lindi    | Anders Sjöström   | Máni Maríus Viðarsson | Juha Fagerholm  | Ilja Livenson   | Anna Ármannsdóttir | John White     | Ivar Koppel       | Romain Wartel   |
+| Dan Still       | Matteo Carone   | Gurvinder Singh       | Pavlin Mitev             | Olli Tourunen  | Kalle Happonen    | Ingemar Fällman       | Lars Viklund    | Salman Toor     | Apurva Nandan      | Aleksi Kallio  | Kasper Sort       | Anne Fouilloux  |
+| Stephan Oepen   | Oxana Smirnova  | Gudmund Høst          | Christian Søttrup        | Ulf Tigerstedt | Petter A. Urkedal | Mattias Wadenstein    | Dmytro Karpenko | Vincent Garonne | Jens Larsson       | Rob Pennington | Michaela Barth    | Anne-Marie Bach |
+|                 | Kine Nordstokkå |                       |                          |                |                   |                       |                 |                 |                    |                |                   |                 |
+
 
 
 ### Contributing

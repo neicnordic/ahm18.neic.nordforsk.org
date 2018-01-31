@@ -77,7 +77,7 @@ schedule:
         - time: 17:00 - 19:00
           type: teamchallenge
           title: Teamwork challenge
-          page: /teamwork
+          page: /teambuilding
           chair: 
         - time: 19:00 - 20:00
           type: recreation
