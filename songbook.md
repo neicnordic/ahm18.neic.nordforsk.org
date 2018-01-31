@@ -41,7 +41,7 @@ the national <br/>
 research priorities.<br/>
 Final result will be an equitable and fair process<br/>
 for sharing and exchanging <br/>
-access to resources across the Nordics.
+access (to) resources across the Nordics.
 
 
 ## What shall we do with the resource sharing<a name="resource"></a>
