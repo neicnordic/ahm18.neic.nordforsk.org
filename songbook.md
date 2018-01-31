@@ -33,14 +33,15 @@ Sharing of application expertise<br/>
 
 for advanced user support.<br/>
 Not intended, to change <br/>
-the processes by which the national, providers manage<br/>
-allocate or otherwise support<br/>
-the national research priorities.<br/>
+the processes by which the national,<br/>
+providers manage allocate<br/> 
+or otherwise support<br/>
 
-Final result<br/>
-will be an equitable and fair process<br/>
-for sharing and exchanging access<br/>
-to resources across the Nordics.
+the national <br/>
+research priorities.<br/>
+Final result will be an equitable and fair process<br/>
+for sharing and exchanging <br/>
+access to resources across the Nordics.
 
 
 ## What shall we do with the resource sharing<a name="resource"></a>
