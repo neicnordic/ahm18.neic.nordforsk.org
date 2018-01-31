@@ -1,3 +1,8 @@
+---
+layout: master
+include: default
+---
+
 # NEIC 2018 Skeikampen Song Book 
 1. [Hell and gore](#hell)
 2. [Dellingr Project Flash Talk Song](#dellingr)
