@@ -83,48 +83,43 @@ Melody: We shall overcome
 
 NEIC is the best,<br/> 
 NEIC is magnificient <br/> 
-NEIC is enjoyable<br/> 
-NEIC is the best, every day<br/> 
+NEIC is best, every day<br/> 
 
-Oh, Gudmund is Superb<br/> 
-We rellay feel <br/> 
-NEIC is the Best<br/> 
+Oh, Gudmund Høst 
+We really feel that<br/> 
+NEIC is Best, every day <br/> 
 
 NEIC is brilliant<br/> 
-NEIC is a amazing<br/> 
-NEICers are cool<br/> 
-NEIC is excellent<br/> 
+NEIC is amazing<br/> 
+NEIC is excellent, today<br/> 
 
-Oh, Gudmund is Superb<br/> 
-We rellay feel <br/> 
-NEIC is the Best<br/> 
+Oh, Gudmund Høst 
+We really feel that<br/> 
+NEIC is Best, every day<br/>
 
 NEIC is fabulous<br/> 
 NEIC is fantastic<br/> 
-NEIC is incredible<br/> 
-NEIC is marvelous<br/> 
+NEIC is incredible, this day<br/> 
 
-Oh, Gudmund is Superb<br/> 
-We rellay feel <br/> 
-NEIC is the Best<br/> 
+Oh, Gudmund Høst 
+We really feel that<br/> 
+NEIC is Best, every day<br/>
 
 NEIC is outstanding<br/> 
 NEIC is phenomenal<br/> 
-NEIC is pleasing<br/> 
-NEIC is remarkable <br/> 
+NEIC is wonderful, today<br/> 
 
-Oh, Gudmund is Superb<br/> 
-We rellay feel <br/> 
-NEIC is the Best<br/> 
+Oh, Gudmund Høst 
+We really feel that<br/> 
+NEIC is Best, every day<br/>
 
 NEIC is super-duper<br/> 
 NEIC is attractive<br/> 
-NEIC is best ever<br/> 
-NEIC is wonderful<br/> 
+NEIC is best ever, ever and ever <br/> 
 
-Oh, Gudmund is Superb<br/> 
-We rellay feel <br/> 
-NEIC is the Best<br/> 
+Oh, Gudmund Høst 
+We really feel that<br/> 
+NEIC is Best, every day<br/>
 
 ## Open Source<a name="open"></a>
 Melody: Twinkle, twinkle, little star
