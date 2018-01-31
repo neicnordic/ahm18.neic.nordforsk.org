@@ -2,9 +2,9 @@
 1. [Hell and gore](#hell)
 2. [Dellingr Project Flash Talk Song](#dellingr)
 3. [What shall we do with the resource sharing?](#resoruce)
-4. [DEGDEG](#mountain)
-5. [The NEIC HYMN](#neic)
-6. [Open Source](#open)
+4. [The NEIC HYMN](#neic)
+5. [Open Source](#open)
+6. [Kine å Maiken](#kine)
 
 ## Hell and gore <a name="hell"></a>
 Melody: Helan går
@@ -68,17 +68,6 @@ in the big round archive <br/>
 What shall we do with the threaded channel?...<br/> 
 in the bloody slack team 
 
-## <a name="mountain"></a>
-Melody: Coming 'Round the Mountain
-
-She'll be coming round the mountain when she comes
-She'll be coming round the mountain when she comes
-She'll be coming round the mountain when she comes
-She'll be coming round the mountain
-She'll be coming round the mountain
-She'll be coming round the mountain when she comes
-
-
 ## The NEIC HYMN <a name="neic"></a>
 Melody: We shall overcome
 
@@ -138,4 +127,16 @@ It say so on the internet<br/>
 So it has to be the truth. <br/>
 Open, Open, Open, Source<br/>
 It is wonderfull after all <br/>
+
+## Kine å Maiken<a name="kine"></a>
+Melody: Kalle på spången (Charles on the footbridge?) 
+
+Kine å Maiken <br/>
+it's Kine and Maiken<br/>
+å Kine Kine Kine and Maiken<br/>
+Kine å Maiken<br/>
+its's Kine and Maiken<br/>
+å Kine Kine Kine and Maiken<br/>
+Kine å Maiken <br/>
+its's Kine and Maiken<br/>
 
