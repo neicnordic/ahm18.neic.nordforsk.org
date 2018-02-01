@@ -19,4 +19,11 @@ Organizers:
 Slack channel for practical and technical information [#ahm](https://neic.slack.com/messages/ahm/).
 Slack channel for social sharing [#ahm-social](https://neic.slack.com/messages/ahm-social/).
 
-Link to feedback form: [https://skjema.uio.no/93406](https://skjema.uio.no/93406)
+
+### Evaluation
+
+
+What was good this year? What should we do better next year? <br>
+Please fill out the evaluation form: [https://skjema.uio.no/93406](https://skjema.uio.no/93406)
+ 
+Thank you!

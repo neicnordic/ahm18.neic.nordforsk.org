@@ -1,8 +1,6 @@
 main:
   - url: '/'
     text: 'Home'
-  - url: '/songbook/'
-    text: 'Song book'
   - url: '/schedule/'
     text: 'Schedule'
   - url: '/crossteam/'
@@ -18,6 +16,6 @@ main:
   - url: '/registration/'
     text: 'Registration'
   - url: '/contact/'
-    text: 'Contact'
+    text: 'Contact/Evaluation'
   - url: 'https://github.com/neicnordic/ahm18.neic.nordforsk.org'
     text: 'Sources'
