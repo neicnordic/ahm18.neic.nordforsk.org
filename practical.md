@@ -91,6 +91,7 @@ Put your stuff in [this Google folder](https://drive.google.com/drive/folders/1J
 Whether it is slides for flash-talks, outcome of speed-blogging, photographs or other things you want to share. <br>
 
 
-
+### Reimbursements
+Staff on NeIC contracts will be reimbursed for expenses for travel to/ from Gardermoen. Expenses should be claimed through the staff's local institution. The local institution will add these expenses to its quarterly invoices to NeIC. 
 
 Thanks!
