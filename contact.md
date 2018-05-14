@@ -26,6 +26,6 @@ What was good this year? What should we do better next year? <br>
 Please fill out the evaluation form: [https://skjema.uio.no/93406](https://skjema.uio.no/93406)
 
 ### Report
-You can find the report from this years All Hands Meeting here: https://wiki.neic.no/wiki/File:NeIC_All_Hands_Meeting_2018_report.pdf
+You can find the report from this years All Hands Meeting here: [https://wiki.neic.no/wiki/File:NeIC_All_Hands_Meeting_2018_report.pdf](https://wiki.neic.no/wiki/File:NeIC_All_Hands_Meeting_2018_report.pdf)
  
 Thank you!
